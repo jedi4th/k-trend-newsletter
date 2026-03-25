@@ -1,50 +1,33 @@
 import requests, json, time, urllib.parse, os
-from bs4 import BeautifulSoup
 import feedparser
 
 # --------------------
 # 키워드
 # --------------------
 TOPICS = {
-    "kpop": ["kpop", "idol", "comeback", "debut", "performance"],
-    "kdrama": ["kdrama", "netflix", "series", "episode"],
-    "kbeauty": ["kbeauty", "skincare", "makeup"],
-    "kfood": ["korean food", "kbbq", "kimchi"],
-    "korea": ["korea", "seoul", "travel"]
+    "kpop": ["kpop", "idol", "comeback"],
+    "kdrama": ["kdrama", "netflix", "series"],
+    "kbeauty": ["kbeauty", "skincare"],
+    "kfood": ["korean food", "kbbq"],
+    "korea": ["korea", "seoul"]
 }
 
 TREND_KEYWORDS = [
     "viral", "trending", "insane", "crazy",
-    "obsessed", "reaction", "tiktok", "shorts",
-    "wtf", "omg", "blowing up"
+    "reaction", "tiktok", "shorts"
 ]
 
-SOURCE_WEIGHT = {
-    "reddit": 1.2,
-    "youtube": 1.1,
-    "twitter": 1.3,
-    "social": 1.0
-}
-
 # --------------------
-# 유틸
-# --------------------
-def safe_request(url, headers=None):
-    try:
-        return requests.get(url, headers=headers, timeout=10)
-    except:
-        return None
-
-# --------------------
-# Reddit
+# Reddit API
 # --------------------
 def fetch_reddit():
-    try:
-        url = "https://www.reddit.com/r/all/hot.json?limit=100"
-        headers = {"User-Agent": "Mozilla/5.0"}
-        res = safe_request(url, headers)
+    url = "https://www.reddit.com/search.json?q=kpop%20OR%20kdrama%20OR%20kbeauty&limit=50"
+    headers = {"User-Agent": "Mozilla/5.0"}
 
+    try:
+        res = requests.get(url, headers=headers, timeout=10)
         data = res.json()
+
         return [{
             "source": "reddit",
             "title": p["data"]["title"],
@@ -56,87 +39,59 @@ def fetch_reddit():
         return []
 
 # --------------------
-# YouTube (안정)
+# YouTube RSS
 # --------------------
 def fetch_youtube():
+    query = urllib.parse.quote("kpop kdrama kbeauty korean")
+    url = f"https://www.youtube.com/feeds/videos.xml?search_query={query}"
+
+    feed = feedparser.parse(url)
+
+    return [{
+        "source": "youtube",
+        "title": e.title,
+        "url": e.link,
+        "score": 120,
+        "created": time.time()
+    } for e in feed.entries]
+
+# --------------------
+# X (Twitter) RSS via Nitter
+# --------------------
+def fetch_twitter_rss():
     try:
-        query = urllib.parse.quote("kpop kdrama kbeauty korean")
-        url = f"https://www.youtube.com/feeds/videos.xml?search_query={query}"
+        query = urllib.parse.quote("kpop OR kdrama OR kbeauty")
+        url = f"https://nitter.net/search/rss?f=tweets&q={query}"
+
         feed = feedparser.parse(url)
 
         return [{
-            "source": "youtube",
+            "source": "twitter",
             "title": e.title,
             "url": e.link,
-            "score": 100,
+            "score": 150,
             "created": time.time()
         } for e in feed.entries]
     except:
         return []
 
 # --------------------
-# Twitter (Nitter)
+# Google Trends
 # --------------------
-def fetch_twitter():
-    try:
-        base = "https://nitter.net"
-        query = urllib.parse.quote("kpop OR kdrama OR kbeauty viral")
-        url = f"{base}/search?f=tweets&q={query}"
+def fetch_trends():
+    url = "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US"
+    feed = feedparser.parse(url)
 
-        res = safe_request(url)
-        soup = BeautifulSoup(res.text, "html.parser")
-
-        results = []
-
-        for item in soup.select(".timeline-item"):
-            try:
-                text = item.select_one(".tweet-content").text.strip()
-                link = item.select_one("a")["href"]
-
-                results.append({
-                    "source": "twitter",
-                    "title": text,
-                    "url": base + link,
-                    "score": 150,
-                    "created": time.time()
-                })
-            except:
-                continue
-
-        return results
-    except:
-        return []
+    return [{
+        "source": "trends",
+        "title": e.title,
+        "url": e.link,
+        "score": 200,
+        "created": time.time()
+    } for e in feed.entries]
 
 # --------------------
-# Social Searcher (fallback)
-# --------------------
-def fetch_social_searcher():
-    try:
-        query = "kpop OR kdrama OR kbeauty"
-        url = f"https://www.social-searcher.com/search/?q={query}"
-
-        res = safe_request(url)
-        soup = BeautifulSoup(res.text, "html.parser")
-
-        results = []
-
-        for item in soup.select(".search-result"):
-            text = item.text.strip()
-
-            results.append({
-                "source": "social",
-                "title": text[:150],
-                "url": url,
-                "score": 80,
-                "created": time.time()
-            })
-
-        return results
-    except:
-        return []
-
-# --------------------
-# 점수 계산
+# 점수
 # --------------------
 def keyword_score(title, keywords):
     title = title.lower()
@@ -163,25 +118,20 @@ def classify(item):
 def calculate_score(item):
     popularity = item.get("score", 100) / 1000
     trend = trend_score(item["title"])
-    source_score = SOURCE_WEIGHT.get(item["source"], 0.5)
 
-    return (
-        popularity * 0.4 +
-        trend * 0.4 +
-        source_score * 0.2
-    )
+    return popularity * 0.5 + trend * 0.5
 
 # --------------------
 # 실행
 # --------------------
 def main():
-    print("📡 SNS 풀수집 시작...")
+    print("📡 SNS 통합 수집 시작...")
 
     data = []
     data += fetch_reddit()
     data += fetch_youtube()
-    data += fetch_twitter()
-    data += fetch_social_searcher()
+    data += fetch_twitter_rss()
+    data += fetch_trends()
 
     print(f"수집 완료: {len(data)}개")
 
@@ -220,7 +170,7 @@ def main():
     with open("data/output.json", "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
 
-    print("✅ SNS 기반 output.json 생성 완료")
+    print("✅ SNS 통합 output.json 생성 완료")
 
     from newsletter import generate_newsletter
     generate_newsletter()
