@@ -261,10 +261,6 @@ def main():
     from newsletter import generate_newsletter
     generate_newsletter()
 
-    # 카드뉴스 생성
-    from card_news import generate_card_news
-    generate_card_news()
-
 
 if __name__ == "__main__":
     main()
