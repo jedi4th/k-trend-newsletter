@@ -97,7 +97,12 @@ def main():
     print(f"수집 완료: {len(data)}개")
 
     # 🔥 안전장치 (핵심)
-    if len(data) == 0:
-        print("⚠️ 데이터 없음 → fallback 생성")
-        data = [{
-            "title": "K-pop is trending
+if len(data) == 0:
+    print("⚠️ 데이터 없음 → fallback 생성")
+    data = [{
+        "title": "K-pop is trending globally right now",
+        "url": "https://example.com",
+        "source": "fallback",
+        "score": 100,
+        "created": time.time()
+    }]
