@@ -1,37 +1,39 @@
-name: K-Trend Newsletter Bot
+name: K-Trend Auto Run
 
 on:
   schedule:
-    - cron: '0 0 * * 2,5'
+    - cron: "0 0 * * 1"   # 월요일 09:00 (KST)
+    - cron: "0 0 * * 4"   # 목요일 09:00 (KST)
   workflow_dispatch:
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
-  run-script:
+  run:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 코드 가져오기
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Python 설치
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.10"
 
-      - name: 라이브러리 설치
+      - name: Install dependencies
         run: |
-          pip install requests feedparser beautifulsoup4
+          python -m pip install --upgrade pip
+          pip install requests feedparser
 
-      - name: 스크립트 실행
+      - name: Run main script
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python main.py
 
-      - name: 결과 커밋
+      - name: Commit and push results
         run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@github.com"
-          git add data/output.json data/newsletter.txt
-          git commit -m "update data" || echo "no changes"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@users.noreply.github.com"
+
+          git add output.json newsletter.txt
+          git commit -m "update trend data" || echo "No changes"
           git push
