@@ -1,52 +1,29 @@
 import requests, json, time, urllib.parse, os
 from bs4 import BeautifulSoup
+import feedparser
 
 # --------------------
-# 고급 토픽 키워드
+# 키워드
 # --------------------
 TOPICS = {
-    "kpop": [
-        "kpop", "idol", "comeback", "debut",
-        "stage", "performance", "dance", "fancam",
-        "mv", "music video"
-    ],
-    "kdrama": [
-        "kdrama", "netflix", "series", "episode",
-        "scene", "plot", "ending", "actor", "actress"
-    ],
-    "kbeauty": [
-        "kbeauty", "skincare", "glass skin", "routine",
-        "makeup", "cosmetics", "dermatologist"
-    ],
-    "kfood": [
-        "korean food", "kbbq", "kimchi", "ramen",
-        "street food", "recipe", "mukbang"
-    ],
-    "korea": [
-        "korea", "seoul", "k culture", "travel",
-        "lifestyle", "street", "shopping"
-    ]
+    "kpop": ["kpop", "idol", "comeback", "debut", "performance"],
+    "kdrama": ["kdrama", "netflix", "series", "episode"],
+    "kbeauty": ["kbeauty", "skincare", "makeup"],
+    "kfood": ["korean food", "kbbq", "kimchi"],
+    "korea": ["korea", "seoul", "travel"]
 }
 
-# --------------------
-# 바이럴 키워드 (핵심)
-# --------------------
 TREND_KEYWORDS = [
-    "viral", "trending", "blowing up", "going viral",
-    "insane", "crazy", "obsessed", "everyone is talking",
-    "fans react", "reaction", "losing it",
-    "challenge", "tiktok", "shorts", "reels",
-    "must watch", "you need to see", "can't believe",
-    "wtf", "omg"
+    "viral", "trending", "insane", "crazy",
+    "obsessed", "reaction", "tiktok", "shorts",
+    "wtf", "omg", "blowing up"
 ]
 
-# --------------------
-# 소스 가중치
-# --------------------
 SOURCE_WEIGHT = {
     "reddit": 1.2,
     "youtube": 1.1,
-    "twitter": 1.3
+    "twitter": 1.3,
+    "social": 1.0
 }
 
 # --------------------
@@ -58,87 +35,57 @@ def safe_request(url, headers=None):
     except:
         return None
 
-def is_recent(item, hours=24):
-    now = time.time()
-    created = item.get("created", now)
-    return (now - created) <= hours * 3600
-
 # --------------------
 # Reddit
 # --------------------
 def fetch_reddit():
-    url = "https://www.reddit.com/r/all/hot.json?limit=100"
-    headers = {"User-Agent": "Mozilla/5.0"}
+    try:
+        url = "https://www.reddit.com/r/all/hot.json?limit=100"
+        headers = {"User-Agent": "Mozilla/5.0"}
+        res = safe_request(url, headers)
 
-    res = safe_request(url, headers)
-    if not res:
+        data = res.json()
+        return [{
+            "source": "reddit",
+            "title": p["data"]["title"],
+            "url": "https://reddit.com" + p["data"]["permalink"],
+            "score": p["data"]["ups"],
+            "created": p["data"]["created_utc"]
+        } for p in data["data"]["children"]]
+    except:
         return []
 
-    data = res.json()
-    results = []
-
-    for p in data["data"]["children"]:
-        d = p["data"]
-
-        results.append({
-            "source": "reddit",
-            "title": d["title"],
-            "url": "https://reddit.com" + d["permalink"],
-            "score": d["ups"],
-            "created": d["created_utc"]
-        })
-
-    return results
-
 # --------------------
-# YouTube
+# YouTube (안정)
 # --------------------
 def fetch_youtube():
-    query = urllib.parse.quote("kpop kdrama kbeauty korean viral tiktok")
-    url = f"https://www.youtube.com/results?search_query={query}"
+    try:
+        query = urllib.parse.quote("kpop kdrama kbeauty korean")
+        url = f"https://www.youtube.com/feeds/videos.xml?search_query={query}"
+        feed = feedparser.parse(url)
 
-    res = safe_request(url)
-    if not res:
+        return [{
+            "source": "youtube",
+            "title": e.title,
+            "url": e.link,
+            "score": 100,
+            "created": time.time()
+        } for e in feed.entries]
+    except:
         return []
-
-    soup = BeautifulSoup(res.text, "html.parser")
-
-    results = []
-
-    for a in soup.select("a"):
-        href = a.get("href", "")
-        title = a.get("title", "")
-
-        if "/watch" in href and title:
-            results.append({
-                "source": "youtube",
-                "title": title,
-                "url": "https://youtube.com" + href,
-                "created": time.time()
-            })
-
-    return results[:50]
 
 # --------------------
 # Twitter (Nitter)
 # --------------------
 def fetch_twitter():
-    query = urllib.parse.quote("kpop OR kdrama OR kbeauty viral")
-
-    NITTERS = [
-        "https://nitter.net",
-        "https://nitter.it",
-        "https://nitter.cz"
-    ]
-
-    for base in NITTERS:
+    try:
+        base = "https://nitter.net"
+        query = urllib.parse.quote("kpop OR kdrama OR kbeauty viral")
         url = f"{base}/search?f=tweets&q={query}"
+
         res = safe_request(url)
-
-        if not res:
-            continue
-
         soup = BeautifulSoup(res.text, "html.parser")
+
         results = []
 
         for item in soup.select(".timeline-item"):
@@ -150,15 +97,43 @@ def fetch_twitter():
                     "source": "twitter",
                     "title": text,
                     "url": base + link,
+                    "score": 150,
                     "created": time.time()
                 })
             except:
                 continue
 
-        if results:
-            return results[:50]
+        return results
+    except:
+        return []
 
-    return []
+# --------------------
+# Social Searcher (fallback)
+# --------------------
+def fetch_social_searcher():
+    try:
+        query = "kpop OR kdrama OR kbeauty"
+        url = f"https://www.social-searcher.com/search/?q={query}"
+
+        res = safe_request(url)
+        soup = BeautifulSoup(res.text, "html.parser")
+
+        results = []
+
+        for item in soup.select(".search-result"):
+            text = item.text.strip()
+
+            results.append({
+                "source": "social",
+                "title": text[:150],
+                "url": url,
+                "score": 80,
+                "created": time.time()
+            })
+
+        return results
+    except:
+        return []
 
 # --------------------
 # 점수 계산
@@ -183,53 +158,30 @@ def classify(item):
             best_topic = topic
             best_score = score
 
-    return best_topic, best_score
+    return best_topic
 
 def calculate_score(item):
-    now = time.time()
-
-    created = item.get("created", now)
-    freshness = max(0, 1 - (now - created) / 86400)
-
     popularity = item.get("score", 100) / 1000
     trend = trend_score(item["title"])
     source_score = SOURCE_WEIGHT.get(item["source"], 0.5)
 
     return (
-        popularity * 0.3 +
-        freshness * 0.3 +
-        trend * 0.3 +
-        source_score * 0.1
+        popularity * 0.4 +
+        trend * 0.4 +
+        source_score * 0.2
     )
-
-# --------------------
-# 콘텐츠 필터
-# --------------------
-def is_valuable(title):
-    bad_keywords = [
-        "opens", "opening", "expands", "launch",
-        "release", "apologizes", "collusion"
-    ]
-
-    title_lower = title.lower()
-
-    for k in bad_keywords:
-        if k in title_lower:
-            return False
-
-    return True
 
 # --------------------
 # 실행
 # --------------------
 def main():
-    print("📡 SNS 기반 트렌드 수집 시작...")
+    print("📡 SNS 풀수집 시작...")
 
-    data = (
-        fetch_reddit() +
-        fetch_youtube() +
-        fetch_twitter()
-    )
+    data = []
+    data += fetch_reddit()
+    data += fetch_youtube()
+    data += fetch_twitter()
+    data += fetch_social_searcher()
 
     print(f"수집 완료: {len(data)}개")
 
@@ -247,16 +199,8 @@ def main():
     result = {}
 
     for item in unique:
-
-        if not is_recent(item):
-            continue
-
-        if not is_valuable(item["title"]):
-            continue
-
-        topic, hit = classify(item)
-
-        if not topic or hit < 1:
+        topic = classify(item)
+        if not topic:
             continue
 
         item["topic"] = topic
