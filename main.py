@@ -7,7 +7,7 @@ import random
 # =========================
 # 🔑 설정값
 # =========================
-YOUTUBE_API_KEY = "YOUR_YOUTUBE_API_KEY"
+YOUTUBE_API_KEY = "AIzaSyAZvSwPRyGXepwcLeG27J3gjq5Noolv3HA"
 
 # =========================
 # 📡 1. 유튜브 (조회수 기반)
