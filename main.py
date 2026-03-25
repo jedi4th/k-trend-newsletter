@@ -225,3 +225,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+from newsletter import generate_newsletter
+
+generate_newsletter()
