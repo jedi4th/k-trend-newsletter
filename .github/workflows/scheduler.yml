@@ -2,9 +2,11 @@ name: K-Trend Newsletter Bot
 
 on:
   schedule:
-    # 매주 화요일, 금요일 오전 9시 (한국시간 기준 맞추려면 UTC 조정 필요)
     - cron: '0 0 * * 2,5'
-  workflow_dispatch:  # 수동 실행 버튼
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   run-script:
