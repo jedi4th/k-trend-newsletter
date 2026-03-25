@@ -1,1 +1,15 @@
-{}
+{
+  "kpop": [],
+  "kdrama": [],
+  "kbeauty": [],
+  "kfood": [],
+  "korea": [
+    {
+      "title": "K-pop is trending globally right now",
+      "url": "https://example.com",
+      "source": "fallback",
+      "score": 100,
+      "created": 1774414853.9142382
+    }
+  ]
+}
