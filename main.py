@@ -1,23 +1,52 @@
-import requests, feedparser, json, time, urllib.parse, os
+import requests, json, time, urllib.parse, os
 from bs4 import BeautifulSoup
-from datetime import datetime
 
 # --------------------
-# 설정
+# 고급 토픽 키워드
 # --------------------
 TOPICS = {
-    "kpop": ["kpop", "comeback", "debut", "chart", "viral"],
-    "kdrama": ["kdrama", "netflix", "episode", "series"],
-    "kfood": ["korean food", "recipe", "restaurant", "street food"],
-    "kbeauty": ["kbeauty", "skincare", "makeup", "routine"],
-    "korea": ["korea", "seoul", "travel", "culture"]
+    "kpop": [
+        "kpop", "idol", "comeback", "debut",
+        "stage", "performance", "dance", "fancam",
+        "mv", "music video"
+    ],
+    "kdrama": [
+        "kdrama", "netflix", "series", "episode",
+        "scene", "plot", "ending", "actor", "actress"
+    ],
+    "kbeauty": [
+        "kbeauty", "skincare", "glass skin", "routine",
+        "makeup", "cosmetics", "dermatologist"
+    ],
+    "kfood": [
+        "korean food", "kbbq", "kimchi", "ramen",
+        "street food", "recipe", "mukbang"
+    ],
+    "korea": [
+        "korea", "seoul", "k culture", "travel",
+        "lifestyle", "street", "shopping"
+    ]
 }
 
+# --------------------
+# 바이럴 키워드 (핵심)
+# --------------------
+TREND_KEYWORDS = [
+    "viral", "trending", "blowing up", "going viral",
+    "insane", "crazy", "obsessed", "everyone is talking",
+    "fans react", "reaction", "losing it",
+    "challenge", "tiktok", "shorts", "reels",
+    "must watch", "you need to see", "can't believe",
+    "wtf", "omg"
+]
+
+# --------------------
+# 소스 가중치
+# --------------------
 SOURCE_WEIGHT = {
-    "reddit": 0.9,
-    "youtube": 1.0,
-    "news": 1.0,
-    "twitter": 0.7
+    "reddit": 1.2,
+    "youtube": 1.1,
+    "twitter": 1.3
 }
 
 # --------------------
@@ -29,19 +58,13 @@ def safe_request(url, headers=None):
     except:
         return None
 
-def parse_time(ts):
-    try:
-        return time.mktime(datetime.strptime(ts, "%Y-%m-%dT%H:%M:%SZ").timetuple())
-    except:
-        return time.time()
-
-def is_recent(item, hours=96):
+def is_recent(item, hours=24):
     now = time.time()
     created = item.get("created", now)
     return (now - created) <= hours * 3600
 
 # --------------------
-# 수집
+# Reddit
 # --------------------
 def fetch_reddit():
     url = "https://www.reddit.com/r/all/hot.json?limit=100"
@@ -67,45 +90,40 @@ def fetch_reddit():
 
     return results
 
-
+# --------------------
+# YouTube
+# --------------------
 def fetch_youtube():
-    query = urllib.parse.quote("kpop OR kdrama OR kbeauty OR korean")
-    url = f"https://www.youtube.com/feeds/videos.xml?search_query={query}"
+    query = urllib.parse.quote("kpop kdrama kbeauty korean viral tiktok")
+    url = f"https://www.youtube.com/results?search_query={query}"
 
-    feed = feedparser.parse(url)
+    res = safe_request(url)
+    if not res:
+        return []
+
+    soup = BeautifulSoup(res.text, "html.parser")
+
     results = []
 
-    for e in feed.entries:
-        results.append({
-            "source": "youtube",
-            "title": e.title,
-            "url": e.link,
-            "created": parse_time(e.published)
-        })
+    for a in soup.select("a"):
+        href = a.get("href", "")
+        title = a.get("title", "")
 
-    return results
+        if "/watch" in href and title:
+            results.append({
+                "source": "youtube",
+                "title": title,
+                "url": "https://youtube.com" + href,
+                "created": time.time()
+            })
 
+    return results[:50]
 
-def fetch_news():
-    query = urllib.parse.quote("kpop OR kdrama OR kbeauty OR korean food")
-    url = f"https://news.google.com/rss/search?q={query}"
-
-    feed = feedparser.parse(url)
-    results = []
-
-    for e in feed.entries:
-        results.append({
-            "source": "news",
-            "title": e.title,
-            "url": e.link,
-            "created": parse_time(e.published)
-        })
-
-    return results
-
-
+# --------------------
+# Twitter (Nitter)
+# --------------------
 def fetch_twitter():
-    query = urllib.parse.quote("kpop OR kdrama OR kbeauty")
+    query = urllib.parse.quote("kpop OR kdrama OR kbeauty viral")
 
     NITTERS = [
         "https://nitter.net",
@@ -138,17 +156,20 @@ def fetch_twitter():
                 continue
 
         if results:
-            return results
+            return results[:50]
 
     return []
 
 # --------------------
-# 키워드 점수
+# 점수 계산
 # --------------------
 def keyword_score(title, keywords):
     title = title.lower()
     return sum(1 for k in keywords if k in title)
 
+def trend_score(title):
+    title = title.lower()
+    return sum(2 for k in TREND_KEYWORDS if k in title)
 
 def classify(item):
     title = item["title"].lower()
@@ -164,77 +185,77 @@ def classify(item):
 
     return best_topic, best_score
 
-# --------------------
-# 점수 계산
-# --------------------
 def calculate_score(item):
     now = time.time()
 
     created = item.get("created", now)
     freshness = max(0, 1 - (now - created) / 86400)
 
-    popularity = item.get("score", 0) / 1000
+    popularity = item.get("score", 100) / 1000
+    trend = trend_score(item["title"])
     source_score = SOURCE_WEIGHT.get(item["source"], 0.5)
 
     return (
         popularity * 0.3 +
-        freshness * 0.5 +   # 최신성 강화
-        source_score * 0.2
+        freshness * 0.3 +
+        trend * 0.3 +
+        source_score * 0.1
     )
 
 # --------------------
-# 중복 제거
+# 콘텐츠 필터
 # --------------------
-def deduplicate(items):
-    seen = set()
-    result = []
+def is_valuable(title):
+    bad_keywords = [
+        "opens", "opening", "expands", "launch",
+        "release", "apologizes", "collusion"
+    ]
 
-    for i in items:
-        if i["url"] not in seen:
-            seen.add(i["url"])
-            result.append(i)
+    title_lower = title.lower()
 
-    return result
+    for k in bad_keywords:
+        if k in title_lower:
+            return False
+
+    return True
 
 # --------------------
 # 실행
 # --------------------
 def main():
-    print("📡 데이터 수집 시작...")
+    print("📡 SNS 기반 트렌드 수집 시작...")
 
     data = (
         fetch_reddit() +
         fetch_youtube() +
-        fetch_news() +
         fetch_twitter()
     )
 
     print(f"수집 완료: {len(data)}개")
 
-    data = deduplicate(data)
-    print(f"중복 제거 후: {len(data)}개")
+    # 중복 제거
+    seen = set()
+    unique = []
+
+    for i in data:
+        if i["url"] not in seen:
+            seen.add(i["url"])
+            unique.append(i)
+
+    print(f"중복 제거 후: {len(unique)}개")
 
     result = {}
 
-    for item in data:
+    for item in unique:
 
-        # 🔥 최신 필터
         if not is_recent(item):
             continue
 
-        # 🔥 Reddit 품질 필터
-        if item["source"] == "reddit":
-            if item.get("score", 0) < 50:
-                continue
-
-        # 🔥 뉴스 품질 필터
-        if item["source"] == "news":
-            if "blog" in item["url"]:
-                continue
+        if not is_valuable(item["title"]):
+            continue
 
         topic, hit = classify(item)
 
-        # 🔥 키워드 최소 조건
         if not topic or hit < 1:
             continue
 
@@ -255,9 +276,8 @@ def main():
     with open("data/output.json", "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
 
-    print("✅ output.json 생성 완료")
+    print("✅ SNS 기반 output.json 생성 완료")
 
-    # 뉴스레터 생성
     from newsletter import generate_newsletter
     generate_newsletter()
 
