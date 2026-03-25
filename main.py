@@ -10,6 +10,21 @@ HEADERS = {
 }
 
 # --------------------
+# 키워드 정의
+# --------------------
+TOPIC_KEYWORDS = {
+    "kpop": ["kpop", "idol", "comeback", "concert"],
+    "kdrama": ["drama", "netflix", "series", "episode"],
+    "kbeauty": ["beauty", "skincare", "makeup", "cosmetic"],
+    "kfood": [
+        "food", "korean food", "kbbq", "ramen",
+        "noodle", "kimchi", "snack", "restaurant",
+        "cafe", "bbq", "cup", "eat"
+    ],
+    "korea": ["korea", "seoul", "travel", "culture"]
+}
+
+# --------------------
 # RSS 파서
 # --------------------
 def fetch_rss(url):
@@ -31,14 +46,15 @@ def fetch_rss(url):
 
         return items
 
-    except:
+    except Exception as e:
+        print("❌ RSS ERROR:", url)
         return []
 
 # --------------------
-# Google News (핵심)
+# Google News
 # --------------------
 def fetch_google_news():
-    query = urllib.parse.quote("kpop OR kdrama OR kbeauty OR korean trend")
+    query = urllib.parse.quote("kpop OR kdrama OR kbeauty OR korean food OR korean trend")
     url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
 
     items = fetch_rss(url)
@@ -52,7 +68,7 @@ def fetch_google_news():
 # Bing News
 # --------------------
 def fetch_bing_news():
-    query = urllib.parse.quote("kpop kdrama korean trend")
+    query = urllib.parse.quote("kpop kdrama kbeauty korean food trend")
     url = f"https://www.bing.com/news/search?q={query}&format=rss"
 
     items = fetch_rss(url)
@@ -63,14 +79,23 @@ def fetch_bing_news():
     return items
 
 # --------------------
-# 점수
+# 중복 제거
+# --------------------
+def is_duplicate(title, seen_titles):
+    for t in seen_titles:
+        if title[:40] == t[:40]:
+            return True
+    return False
+
+# --------------------
+# 점수 계산
 # --------------------
 def calculate_score(item):
     title = item["title"].lower()
 
     score = 1
 
-    keywords = ["viral", "trending", "hot", "netflix", "tiktok"]
+    keywords = ["viral", "trend", "hot", "netflix", "tiktok"]
     for k in keywords:
         if k in title:
             score += 2
@@ -78,10 +103,28 @@ def calculate_score(item):
     return score
 
 # --------------------
-# 실행
+# 분류
+# --------------------
+def classify(item):
+    title = item["title"].lower()
+
+    best_topic = None
+    best_score = 0
+
+    for topic, keywords in TOPIC_KEYWORDS.items():
+        score = sum(1 for k in keywords if k in title)
+
+        if score > best_score:
+            best_topic = topic
+            best_score = score
+
+    return best_topic
+
+# --------------------
+# 메인 실행
 # --------------------
 def main():
-    print("📡 뉴스 기반 트렌드 수집 시작...")
+    print("📡 트렌드 수집 시작...")
 
     data = []
     data += fetch_google_news()
@@ -93,36 +136,46 @@ def main():
     if len(data) == 0:
         print("⚠️ fallback 생성")
         data = [{
-            "title": "K-pop global trend rising",
+            "title": "Korean trend is rising globally",
             "url": "https://example.com",
             "source": "fallback",
             "score": 100,
             "created": time.time()
         }]
 
-    result = {
-        "kpop": [],
-        "kdrama": [],
-        "kbeauty": [],
-        "kfood": [],
-        "korea": []
-    }
+    # --------------------
+    # 중복 제거
+    # --------------------
+    seen_titles = set()
+    filtered = []
 
     for item in data:
-        title = item["title"].lower()
+        title = item["title"]
+
+        if is_duplicate(title, seen_titles):
+            continue
+
+        seen_titles.add(title)
+        filtered.append(item)
+
+    print(f"중복 제거 후: {len(filtered)}개")
+
+    # --------------------
+    # 분류 + 점수
+    # --------------------
+    result = {k: [] for k in TOPIC_KEYWORDS.keys()}
+
+    for item in filtered:
+        topic = classify(item)
+        if not topic:
+            continue
+
         item["final_score"] = calculate_score(item)
+        result[topic].append(item)
 
-        if "kpop" in title:
-            result["kpop"].append(item)
-        elif "drama" in title or "netflix" in title:
-            result["kdrama"].append(item)
-        elif "beauty" in title:
-            result["kbeauty"].append(item)
-        elif "food" in title:
-            result["kfood"].append(item)
-        else:
-            result["korea"].append(item)
-
+    # --------------------
+    # TOP 5
+    # --------------------
     for key in result:
         result[key] = sorted(
             result[key],
@@ -130,6 +183,9 @@ def main():
             reverse=True
         )[:5]
 
+    # --------------------
+    # 저장
+    # --------------------
     os.makedirs("data", exist_ok=True)
 
     with open("data/output.json", "w", encoding="utf-8") as f:
@@ -137,8 +193,24 @@ def main():
 
     print("✅ output.json 생성 완료")
 
-    from newsletter import generate_newsletter
-    generate_newsletter()
+    # --------------------
+    # 뉴스레터
+    # --------------------
+    try:
+        from newsletter import generate_newsletter
+        generate_newsletter()
+    except:
+        print("⚠️ newsletter.py 없음")
+
+    # --------------------
+    # 카드뉴스
+    # --------------------
+    try:
+        from card_news import generate_card_news
+        generate_card_news()
+    except:
+        print("⚠️ card_news.py 없음")
+
 
 if __name__ == "__main__":
     main()
