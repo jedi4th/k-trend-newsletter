@@ -1,4 +1,4 @@
-import requests, feedparser, json, time, urllib.parse
+import requests, feedparser, json, time, urllib.parse, os
 from bs4 import BeautifulSoup
 from datetime import datetime
 
@@ -7,10 +7,10 @@ from datetime import datetime
 # --------------------
 TOPICS = {
     "kpop": ["kpop", "bts", "blackpink", "idol"],
-    "kdrama": ["kdrama", "korean drama"],
+    "kdrama": ["kdrama", "korean drama", "netflix"],
     "kfood": ["korean food", "kimchi", "kbbq"],
-    "kbeauty": ["kbeauty", "skincare"],
-    "korea": ["korea", "seoul"]
+    "kbeauty": ["kbeauty", "skincare", "cosmetics"],
+    "korea": ["korea", "seoul", "k culture"]
 }
 
 SOURCE_WEIGHT = {
@@ -35,6 +35,11 @@ def parse_time(ts):
     except:
         return time.time()
 
+def is_recent(item, hours=96):
+    now = time.time()
+    created = item.get("created", now)
+    return (now - created) <= hours * 3600
+
 # --------------------
 # 수집
 # --------------------
@@ -51,6 +56,7 @@ def fetch_reddit():
 
     for p in data["data"]["children"]:
         d = p["data"]
+
         results.append({
             "source": "reddit",
             "title": d["title"],
@@ -136,40 +142,49 @@ def fetch_twitter():
 
     return []
 
+# --------------------
+# 키워드 점수
+# --------------------
+def keyword_score(title, keywords):
+    title = title.lower()
+    return sum(1 for k in keywords if k in title)
 
-# --------------------
-# 처리
-# --------------------
+
 def classify(item):
     title = item["title"].lower()
 
+    best_topic = None
+    best_score = 0
+
     for topic, keywords in TOPICS.items():
-        for k in keywords:
-            if k in title:
-                return topic
-    return None
+        score = keyword_score(title, keywords)
+        if score > best_score:
+            best_topic = topic
+            best_score = score
 
+    return best_topic, best_score
 
+# --------------------
+# 점수 계산
+# --------------------
 def calculate_score(item):
     now = time.time()
 
-    # 최신성
     created = item.get("created", now)
     freshness = max(0, 1 - (now - created) / 86400)
 
-    # 인기도
     popularity = item.get("score", 0) / 1000
-
-    # 소스 신뢰도
     source_score = SOURCE_WEIGHT.get(item["source"], 0.5)
 
     return (
-        popularity * 0.4 +
-        freshness * 0.3 +
-        source_score * 0.3
+        popularity * 0.3 +
+        freshness * 0.5 +   # 최신성 강화
+        source_score * 0.2
     )
 
-
+# --------------------
+# 중복 제거
+# --------------------
 def deduplicate(items):
     seen = set()
     result = []
@@ -180,7 +195,6 @@ def deduplicate(items):
             result.append(i)
 
     return result
-
 
 # --------------------
 # 실행
@@ -203,11 +217,30 @@ def main():
     result = {}
 
     for item in data:
-        topic = classify(item)
-        if not topic:
+
+        # 🔥 최신 필터
+        if not is_recent(item):
             continue
 
+        # 🔥 Reddit 품질 필터
+        if item["source"] == "reddit":
+            if item.get("score", 0) < 50:
+                continue
+
+        # 🔥 뉴스 품질 필터
+        if item["source"] == "news":
+            if "blog" in item["url"]:
+                continue
+
+        topic, hit = classify(item)
+
+        # 🔥 키워드 최소 조건
+        if not topic or hit < 1:
+            continue
+
+        item["topic"] = topic
         item["final_score"] = calculate_score(item)
+
         result.setdefault(topic, []).append(item)
 
     for t in result:
@@ -217,15 +250,21 @@ def main():
             reverse=True
         )[:5]
 
+    os.makedirs("data", exist_ok=True)
+
     with open("data/output.json", "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
 
     print("✅ output.json 생성 완료")
 
+    # 뉴스레터 생성
+    from newsletter import generate_newsletter
+    generate_newsletter()
+
+    # 카드뉴스 생성
+    from card_news import generate_card_news
+    generate_card_news()
+
 
 if __name__ == "__main__":
     main()
-
-from newsletter import generate_newsletter
-
-generate_newsletter()
