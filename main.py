@@ -6,11 +6,11 @@ from datetime import datetime
 # 설정
 # --------------------
 TOPICS = {
-    "kpop": ["kpop", "bts", "blackpink", "idol"],
-    "kdrama": ["kdrama", "korean drama", "netflix"],
-    "kfood": ["korean food", "kimchi", "kbbq"],
-    "kbeauty": ["kbeauty", "skincare", "cosmetics"],
-    "korea": ["korea", "seoul", "k culture"]
+    "kpop": ["kpop", "comeback", "debut", "chart", "viral"],
+    "kdrama": ["kdrama", "netflix", "episode", "series"],
+    "kfood": ["korean food", "recipe", "restaurant", "street food"],
+    "kbeauty": ["kbeauty", "skincare", "makeup", "routine"],
+    "korea": ["korea", "seoul", "travel", "culture"]
 }
 
 SOURCE_WEIGHT = {
