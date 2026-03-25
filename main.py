@@ -1,215 +1,204 @@
 import requests
+import feedparser
 import json
-import time
-import os
-import xml.etree.ElementTree as ET
-import urllib.parse
+from difflib import SequenceMatcher
+import random
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
+# =========================
+# 🔑 설정값
+# =========================
+YOUTUBE_API_KEY = "YOUR_YOUTUBE_API_KEY"
 
-# --------------------
-# 키워드 정의
-# --------------------
-TOPIC_KEYWORDS = {
-    "kpop": ["kpop", "idol", "comeback", "concert"],
-    "kdrama": ["drama", "netflix", "series", "episode"],
-    "kbeauty": ["beauty", "skincare", "makeup", "cosmetic"],
-    "kfood": [
-        "food", "korean food", "kbbq", "ramen",
-        "noodle", "kimchi", "snack", "restaurant",
-        "cafe", "bbq", "cup", "eat"
-    ],
-    "korea": ["korea", "seoul", "travel", "culture"]
-}
+# =========================
+# 📡 1. 유튜브 (조회수 기반)
+# =========================
+def get_youtube_trends():
+    keywords = [
+        "kpop", "kdrama", "kbeauty", "korean food",
+        "buldak", "tteokbokki", "korean street food"
+    ]
 
-# --------------------
-# RSS 파서
-# --------------------
-def fetch_rss(url):
-    try:
-        res = requests.get(url, headers=HEADERS, timeout=10)
-        root = ET.fromstring(res.content)
+    results = []
 
-        items = []
-        for item in root.findall(".//item"):
-            title = item.find("title").text if item.find("title") is not None else ""
-            link = item.find("link").text if item.find("link") is not None else ""
+    for kw in keywords:
+        try:
+            search_url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={kw}&type=video&maxResults=5&key={YOUTUBE_API_KEY}"
+            res = requests.get(search_url).json()
 
-            items.append({
-                "title": title,
-                "url": link,
-                "score": 100,
-                "created": time.time()
-            })
+            for item in res.get("items", []):
+                video_id = item["id"]["videoId"]
 
-        return items
+                stats_url = f"https://www.googleapis.com/youtube/v3/videos?part=statistics&id={video_id}&key={YOUTUBE_API_KEY}"
+                stats = requests.get(stats_url).json()
 
-    except Exception as e:
-        print("❌ RSS ERROR:", url)
-        return []
+                try:
+                    view_count = int(stats["items"][0]["statistics"]["viewCount"])
+                except:
+                    view_count = 0
 
-# --------------------
-# Google News
-# --------------------
-def fetch_google_news():
-    query = urllib.parse.quote("kpop OR kdrama OR kbeauty OR korean food OR korean trend")
-    url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
+                if view_count > 30000:
+                    results.append({
+                        "title": item["snippet"]["title"],
+                        "summary": f"YouTube 조회수 {view_count}",
+                        "link": f"https://youtube.com/watch?v={video_id}",
+                        "source": "youtube"
+                    })
+        except:
+            continue
 
-    items = fetch_rss(url)
+    return results
 
-    for i in items:
-        i["source"] = "google_news"
+# =========================
+# 📡 2. TikTok 우회 (Google Trends + 키워드)
+# =========================
+def get_trend_keywords():
+    url = "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US"
+    feed = feedparser.parse(url)
 
-    return items
+    results = []
+    for entry in feed.entries[:10]:
+        results.append({
+            "title": entry.title,
+            "summary": "Google Trends",
+            "link": entry.link,
+            "source": "trends"
+        })
+    return results
 
-# --------------------
-# Bing News
-# --------------------
-def fetch_bing_news():
-    query = urllib.parse.quote("kpop kdrama kbeauty korean food trend")
-    url = f"https://www.bing.com/news/search?q={query}&format=rss"
+# =========================
+# 📡 3. 뉴스
+# =========================
+def get_news():
+    url = "https://news.google.com/rss/search?q=kpop+kdrama+kbeauty+korean+food&hl=en-US&gl=US&ceid=US:en"
+    feed = feedparser.parse(url)
 
-    items = fetch_rss(url)
+    results = []
+    for entry in feed.entries[:20]:
+        results.append({
+            "title": entry.title,
+            "summary": entry.summary,
+            "link": entry.link,
+            "source": "news"
+        })
+    return results
 
-    for i in items:
-        i["source"] = "bing_news"
+# =========================
+# 🧠 중복 제거
+# =========================
+def is_similar(a, b):
+    return SequenceMatcher(None, a.lower(), b.lower()).ratio() > 0.75
 
-    return items
+def deduplicate(news):
+    unique = []
+    for item in news:
+        if not any(is_similar(item["title"], u["title"]) for u in unique):
+            unique.append(item)
+    return unique
 
-# --------------------
-# 중복 제거
-# --------------------
-def is_duplicate(title, seen_titles):
-    for t in seen_titles:
-        if title[:40] == t[:40]:
-            return True
-    return False
+# =========================
+# 🔥 바이럴 필터
+# =========================
+VIRAL_KEYWORDS = [
+    "viral", "trend", "tiktok", "buzz", "hot", "challenge"
+]
 
-# --------------------
-# 점수 계산
-# --------------------
-def calculate_score(item):
-    title = item["title"].lower()
+def viral_score(text):
+    text = text.lower()
+    return sum(1 for k in VIRAL_KEYWORDS if k in text)
 
-    score = 1
-
-    keywords = ["viral", "trend", "hot", "netflix", "tiktok"]
-    for k in keywords:
-        if k in title:
-            score += 2
-
-    return score
-
-# --------------------
-# 분류
-# --------------------
-def classify(item):
-    title = item["title"].lower()
-
-    best_topic = None
-    best_score = 0
-
-    for topic, keywords in TOPIC_KEYWORDS.items():
-        score = sum(1 for k in keywords if k in title)
-
-        if score > best_score:
-            best_topic = topic
-            best_score = score
-
-    return best_topic
-
-# --------------------
-# 메인 실행
-# --------------------
-def main():
-    print("📡 트렌드 수집 시작...")
-
-    data = []
-    data += fetch_google_news()
-    data += fetch_bing_news()
-
-    print(f"수집 완료: {len(data)}개")
-
-    # fallback
-    if len(data) == 0:
-        print("⚠️ fallback 생성")
-        data = [{
-            "title": "Korean trend is rising globally",
-            "url": "https://example.com",
-            "source": "fallback",
-            "score": 100,
-            "created": time.time()
-        }]
-
-    # --------------------
-    # 중복 제거
-    # --------------------
-    seen_titles = set()
+def filter_news(news):
     filtered = []
+    for item in news:
+        score = viral_score(item["title"] + " " + item["summary"])
 
-    for item in data:
-        title = item["title"]
+        # YouTube는 조회수로 이미 필터됨 → 통과
+        if item["source"] == "youtube":
+            filtered.append(item)
+        elif score >= 1:
+            filtered.append(item)
 
-        if is_duplicate(title, seen_titles):
-            continue
+    return filtered
 
-        seen_titles.add(title)
-        filtered.append(item)
+# =========================
+# 📊 카테고리 분류
+# =========================
+CATEGORY_KEYWORDS = {
+    "KPOP": ["kpop", "idol", "bts", "blackpink"],
+    "KDRAMA": ["drama", "netflix", "series"],
+    "KBEAUTY": ["beauty", "skincare", "makeup"],
+    "KFOOD": ["food", "ramen", "buldak", "tteokbokki", "korean bbq"],
+    "KOREA": ["korea", "korean"]
+}
 
-    print(f"중복 제거 후: {len(filtered)}개")
+def categorize(news):
+    categorized = {k: [] for k in CATEGORY_KEYWORDS.keys()}
 
-    # --------------------
-    # 분류 + 점수
-    # --------------------
-    result = {k: [] for k in TOPIC_KEYWORDS.keys()}
+    for item in news:
+        text = (item["title"] + " " + item["summary"]).lower()
 
-    for item in filtered:
-        topic = classify(item)
-        if not topic:
-            continue
+        for cat, keywords in CATEGORY_KEYWORDS.items():
+            if any(k in text for k in keywords):
+                categorized[cat].append(item)
+                break
 
-        item["final_score"] = calculate_score(item)
-        result[topic].append(item)
+    return categorized
 
-    # --------------------
-    # TOP 5
-    # --------------------
-    for key in result:
-        result[key] = sorted(
-            result[key],
-            key=lambda x: x["final_score"],
-            reverse=True
-        )[:5]
-
-    # --------------------
-    # 저장
-    # --------------------
-    os.makedirs("data", exist_ok=True)
-
-    with open("data/output.json", "w", encoding="utf-8") as f:
-        json.dump(result, f, indent=2, ensure_ascii=False)
+# =========================
+# 💾 저장
+# =========================
+def save_output(data):
+    with open("output.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
     print("✅ output.json 생성 완료")
 
-    # --------------------
-    # 뉴스레터
-    # --------------------
-    try:
-        from newsletter import generate_newsletter
-        generate_newsletter()
-    except:
-        print("⚠️ newsletter.py 없음")
+# =========================
+# 🧠 뉴스레터 텍스트
+# =========================
+def generate_newsletter(data):
+    text = "[K-TREND AI INPUT]\n\n"
 
-    # --------------------
-    # 카드뉴스
-    # --------------------
-    try:
-        from card_news import generate_card_news
-        generate_card_news()
-    except:
-        print("⚠️ card_news.py 없음")
+    for category, items in data.items():
+        if not items:
+            continue
+
+        text += f"=== {category} ===\n\n"
+
+        for i, item in enumerate(items[:5], 1):
+            text += f"{i}.\n"
+            text += f"TITLE: {item['title']}\n"
+            text += f"SUMMARY: {item['summary']}\n"
+            text += f"LINK: {item['link']}\n\n"
+
+    with open("newsletter.txt", "w", encoding="utf-8") as f:
+        f.write(text)
+
+    print("✅ newsletter.txt 생성 완료")
+
+# =========================
+# 🚀 메인 실행
+# =========================
+def main():
+    print("📡 트렌드 수집 시작...")
+
+    youtube = get_youtube_trends()
+    trends = get_trend_keywords()
+    news = get_news()
+
+    all_data = youtube + trends + news
+
+    print(f"수집: {len(all_data)}")
+
+    all_data = deduplicate(all_data)
+    print(f"중복 제거: {len(all_data)}")
+
+    all_data = filter_news(all_data)
+    print(f"필터링: {len(all_data)}")
+
+    categorized = categorize(all_data)
+
+    save_output(categorized)
+    generate_newsletter(categorized)
 
 
 if __name__ == "__main__":
