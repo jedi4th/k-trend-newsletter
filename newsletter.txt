@@ -1,82 +1,115 @@
-[K-TREND AI INPUT]
+[K-TREND AI INPUT - 2026-03-25]
+
 
 === KPOP ===
 
 1.
-TITLE: “Golden” Official Lyric Video | KPop Demon Hunters | Sony Animation
-SUMMARY: YouTube 조회수 1274860699
-LINK: https://youtube.com/watch?v=yebNIHKAC4A
+TITLE: K-animation's absence: Why Korea hasn't produced its own ‘Zootopia 2' or ‘KPop Demon Hunters' - The Korea Times
+SUMMARY: K-animation's absence: Why Korea hasn't produced its own ‘Zootopia 2' or ‘KPop Demon Hunters' - The Korea Times
+HOOK: KPOP 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlNYaEdDSUUwT2g3M0k4TW1ocTY5dkdfN1k1Z19CZ1lKT0tGNFVRSzdPQlVMUmFhU3dlLWZFeWkzWk5KZUdkeURHUUVCSl9rM2M1Y01CeG1qUElmU0g1WktxMlc4djBFbk1zazRqZUU2MnFmbTRwaS1PZUQwekFnY3JJX1A4RU1vYVV6ekhKVG9rZWNYTFdOTVdtYnFsRkxadkhPNXI3QWxTMGpXaUFLbHhyZnJrclZuek1neXg3YnBubFFIZThvLXVRTThkMGxqMGZRbUUzSWhMS1Fr0gHiAUFVX3lxTE5ISFJqZVYyVFBoOTRsdkd1S3V1aUVqOXp5a2lZUndyZklDTXlRRWdOWVRTNGdDQWVzLURuRloxR0dWSlg3QmRNbDVKSVROOXd3R0txOXdnRm1QY2Rpdm9WbTBLZks0eFd0S2VtODdNamZXNkpXelUzUlE0NDZ3dFNMSURodWRPbDJsN0tLMUY0OUo2aGE5U0J0ckdLNmt4TjdsZVY1Z1NDRVU1WTFBSndFa0RrVzFRTk56YUZXVTF6QXV4Z19uOGFzc29qOG5xcnJDZk9NNDZ1VGx0TkNvQTM3QXc?oc=5
 
-2.
-TITLE: &quot;Your Idol&quot; | Official Song Clip | KPop Demon Hunters | Sony Animation
-SUMMARY: YouTube 조회수 401909661
-LINK: https://youtube.com/watch?v=cWppAbqm9I8
-
-3.
-TITLE: From BTS to Korean University: Indian Students Are Studying the Hallyu Way - Dojeon Media
-SUMMARY: <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUhrdkxUcG45VnMtbUpCTk1fUWJYMXhEaFhwREQzVE5WTkxHWDBic2Z0c183bXo1WTZudFM4Q2tCLXFnR3FKT0M4XzJMTFhXQ3VIMmxmYTJjcEFpU200cFI4X2dLSFhwT1N5SEpzS3E4MExKNmhOTEo1MW9NYXgtVGIwelRPZzBNTlo0dEZUVVZXZHB0aTBlU3JaaktFa0IwVU5pQklBT0RfUQ?oc=5" target="_blank">From BTS to Korean University: Indian Students Are Studying the Hallyu Way</a>&nbsp;&nbsp;<font color="#6f6f6f">Dojeon Media</font>
-LINK: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUhrdkxUcG45VnMtbUpCTk1fUWJYMXhEaFhwREQzVE5WTkxHWDBic2Z0c183bXo1WTZudFM4Q2tCLXFnR3FKT0M4XzJMTFhXQ3VIMmxmYTJjcEFpU200cFI4X2dLSFhwT1N5SEpzS3E4MExKNmhOTEo1MW9NYXgtVGIwelRPZzBNTlo0dEZUVVZXZHB0aTBlU3JaaktFa0IwVU5pQklBT0RfUQ?oc=5
 
 === KDRAMA ===
 
-1.
-TITLE: Kdrama Actors Speaking English #kdrama #kdramafunnymoments #kdramaedit #kdramashorts #funny
-SUMMARY: YouTube 조회수 12390419
-LINK: https://youtube.com/watch?v=ztYl1tbRhfs
-
-2.
-TITLE: BEST EMOTIONAL LOVE STORY KOREAN DRAMA | Descendants of the Sun | Always + This love
-SUMMARY: YouTube 조회수 540778
-LINK: https://youtube.com/watch?v=4b4AyKh7J4E
 
 === KBEAUTY ===
 
 1.
-TITLE: Stop Buying &quot;Viral&quot; K-Beauty. 🛑 (What Koreans Actually Use)
-SUMMARY: YouTube 조회수 267749
-LINK: https://youtube.com/watch?v=X9hZFvgAB2I
+TITLE: From K-beauty to K-dentistry, Korea’s next wave has dazzling smile - The Korea Economic Daily Global Edition
+SUMMARY: From K-beauty to K-dentistry, Korea’s next wave has dazzling smile - The Korea Economic Daily Global Edition
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMic0FVX3lxTE9xbjRQSjhqM3oxakRFNVJXelBuVjRZb1ZqYm9FWXZCb25fOUQ4QmpYb1lURm9QekJRNVZZZGhXTUluRXRYWjFQNTBQWHNEYlMzZUZVc3dMYUxKa0JMUml3Ym5qS3lvWm9KeTd2Yi1WNE5qTTg?oc=5
 
 2.
-TITLE: How Multi Balms Became Korea's Biggest Beauty Trend of 2022 - Allure
-SUMMARY: <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5oamNqQldkUVc5TjZhRFhrT1huUTVzMDV0NHNyeVlwZm1iUTFwZklEdUlqQjFkNmRIUU8yZ2RyWUVjdjJwd1FzY25QS3BEcHFicWZUaVJHNzgzaXA1NnRYT01DazJXdkNhUV9pdg?oc=5" target="_blank">How Multi Balms Became Korea's Biggest Beauty Trend of 2022</a>&nbsp;&nbsp;<font color="#6f6f6f">Allure</font>
-LINK: https://news.google.com/rss/articles/CBMibEFVX3lxTE5oamNqQldkUVc5TjZhRFhrT1huUTVzMDV0NHNyeVlwZm1iUTFwZklEdUlqQjFkNmRIUU8yZ2RyWUVjdjJwd1FzY25QS3BEcHFicWZUaVJHNzgzaXA1NnRYT01DazJXdkNhUV9pdg?oc=5
+TITLE: Top South Korean stylists give New Yorkers K-beauty makeovers in reality show Perfect Glow - The Straits Times
+SUMMARY: Top South Korean stylists give New Yorkers K-beauty makeovers in reality show Perfect Glow - The Straits Times
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNm42ZG9wdnBIX21KTm41ZjdqWVJ5S250eGtybWhfMjRWRVE0ZXJmNDNDbnF6akRCVkVYMVhuN193UEk1c20zVU40X25qeW92Nm5HQjBDQ1lYTkhFWXB1Z3UwN1F5OE5FdS1nTlo0YkluSENSVGZ1OEFMU3JTYzBDcGNvWm1VSjlPRXhQRkhMaTBDTE1Zb2gyUF9VX290dkVNSVg1cFQwX3NlNExDMDdSUDdDMkhXbnNROFdxWVpKdF9DQWhkbG9YMGZZVDB2NUJKanRaTQ?oc=5
+
+3.
+TITLE: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
+SUMMARY: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHBLcVRZT1FIRzhJVlVfQnA0QzdFVEM2Szl6NGJyd1VobTdxbzgwZnFUTmVHZHF4UndLTnN0VlFBZlctbkJVR2Qzb1E1eTBCVE1BdldkOA?oc=5
+
 
 === KFOOD ===
 
 1.
-TITLE: Everything my mom made my brother who works as a resident. #koreanfood #kimchi #resident #homemade
-SUMMARY: YouTube 조회수 8899296
-LINK: https://youtube.com/watch?v=j2C_zScch58
+TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - The Korea Economic Daily Global Edition
+SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - The Korea Economic Daily Global Edition
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHFrOXdHd3dxOXNJalJtc2U0T3VkTW8xUG5PeDd1VDhwc2w4cEJnM2lQa3FieThmUWRLa004WEFqY3VKZTFPT3k2M0F5cmp1cUVXOU1fYVI5UVNUQTJz?oc=5
 
 2.
-TITLE: Ranking The BEST Korean Foods!
-SUMMARY: YouTube 조회수 2247601
-LINK: https://youtube.com/watch?v=x5Os_8RW1ro
+TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
+SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTS1rWlFfbWdfY05iYzlReThEaGtxd2ZmcG9hMk1BR3IxMHJ0LW53WHBLeEs1c2dfQmFfT0lyd2FxU09MRzNqdEZjWmlKNHl4THV4R0J4WG02ZUdMTDBXTy16NXBNanhlZ29GRzktVjVIZ2JDYjlaaEtXbXl1djFuS3ltNUk1SXM2TmVWYXAtZFlqSTVMLV9MZTFjaW5CN0ZlektYUzdZcTFDbE5yN1NENVNhVV9lWHp1MGRvdW5UNm5oVEtv?oc=5
 
 3.
-TITLE: Korean Street Food hits different 🤤🤤 #koreanfood
-SUMMARY: YouTube 조회수 16501838
-LINK: https://youtube.com/watch?v=iHu5tT2y_zA
+TITLE: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
+SUMMARY: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnEzcXFibHhCY3J0clYwM3NFUU1hdmhTcXAwdkdrOUUzaTlxeHhLOUZWNGdXSkZpUk11dVRIMDZaVEJobHJRcTVUdjdDSloyUWx3QndULXJmdzZwbktpVFh1MnZETWJzS2prWHdiSTB2M3dEc2dwcEJyNVJYbVdRYmNQVDhhZlpEWU9TSHlES24tWElzWEszdDJ3cDlPcVJaRGZmaC1ES3FtUzYwRkgtY2ZEQjk5NVk?oc=5
 
 4.
-TITLE: Best Korean Food I had in America!!🔥🔥🤤🤤 #food #foodreview #koreafood #foodie
-SUMMARY: YouTube 조회수 5463091
-LINK: https://youtube.com/watch?v=Af6JegRkwRQ
+TITLE: K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald
+SUMMARY: K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKa0JsYVp5S2VFSC1zN2hLSXdmRWRGQm1YaFlfMkNIaDhzQzR4c1ZtUjFKUjcxMWFSVnJGcmg4a014Y1FHTXpxM0RqY0didGMtNGh4WUJR?oc=5
 
 5.
-TITLE: pov: it&#39;s 12am and you&#39;re craving buldak ramen...
-SUMMARY: YouTube 조회수 31986
-LINK: https://youtube.com/watch?v=9Z02F4DRjkU
+TITLE: Buldak ramen challenge viral
+SUMMARY: Spicy Korean ramen trend exploding globally
+HOOK: KFOOD 🔥 viral
+SOURCE: fallback
+LINK: https://youtube.com
+
 
 === KOREA ===
 
 1.
-TITLE: Korean restaurant hits differently
-SUMMARY: YouTube 조회수 35940507
-LINK: https://youtube.com/watch?v=oRvVuf3l8go
+TITLE: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
+SUMMARY: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
 
 2.
-TITLE: K-content dominates TikTok in 1st half of 2023, trend won't go anywhere, company says - Korea JoongAng Daily
-SUMMARY: <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGprcm1zM2YxQzdsWU5QUEYwLUI2eFhFQmd4dDYyMzBob1pjX1ozS25oSFByMmxEMGEwanNyNU83b3NyTFViTDBxNWs0MmNpUENubnVGenEwUmZScm5ZeDhhWms4bWFUUUJUem5JRlVjQVUwRUs2YmlSaUhjaEJ3Z2QtUDJSeHlsd2pKV2FXN1JTOEY5Vk1ZaXpKVkE?oc=5" target="_blank">K-content dominates TikTok in 1st half of 2023, trend won't go anywhere, company says</a>&nbsp;&nbsp;<font color="#6f6f6f">Korea JoongAng Daily</font>
-LINK: https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGprcm1zM2YxQzdsWU5QUEYwLUI2eFhFQmd4dDYyMzBob1pjX1ozS25oSFByMmxEMGEwanNyNU83b3NyTFViTDBxNWs0MmNpUENubnVGenEwUmZScm5ZeDhhWms4bWFUUUJUem5JRlVjQVUwRUs2YmlSaUhjaEJ3Z2QtUDJSeHlsd2pKV2FXN1JTOEY5Vk1ZaXpKVkE?oc=5
+TITLE: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
+SUMMARY: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2g5ckZtcUhMUFY0OENEdmxEQk9qMGhKYmtKckxNSzgyX2hJTDVsdVh3ajlSd251LTRXRE5QWXpyelpBb05VMnh6X0lVY01jbjZfMUhNVHcyTjdYM3J2d1pVTnNRT2dpR01RNDNjOXdYcXZSQ0IybjM0aVR6QldGZHdBZkNoVmE0aVB2bA?oc=5
+
+3.
+TITLE: KCON taps ZB1's Sung Han-bin as first-ever ambassador - The Korea Herald
+SUMMARY: KCON taps ZB1's Sung Han-bin as first-ever ambassador - The Korea Herald
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE90QjBkTXptdERmSDdrdkFCU09QTGtENFJXZHpNS0ktTmJfVUt2cW9uQWlnZ29JQzdiQjJVbVFMU1d2VllGalhrUFRvY3NoWXlKM0EzRUx2Yw?oc=5
+
+4.
+TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
+SUMMARY: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5
+
+5.
+TITLE: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
+SUMMARY: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
 
