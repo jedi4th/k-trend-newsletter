@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-03-25]
+[K-TREND AI INPUT - 2026-03-26]
 
 
 === KPOP ===
@@ -17,8 +17,8 @@ LINK: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlNYaEdDSUUwT2g3M0k4T
 === KBEAUTY ===
 
 1.
-TITLE: From K-beauty to K-dentistry, Korea’s next wave has dazzling smile - The Korea Economic Daily Global Edition
-SUMMARY: From K-beauty to K-dentistry, Korea’s next wave has dazzling smile - The Korea Economic Daily Global Edition
+TITLE: From K-beauty to K-dentistry, Korea’s next wave has dazzling smile - KED Global
+SUMMARY: From K-beauty to K-dentistry, Korea’s next wave has dazzling smile - KED Global
 HOOK: KBEAUTY 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMic0FVX3lxTE9xbjRQSjhqM3oxakRFNVJXelBuVjRZb1ZqYm9FWXZCb25fOUQ4QmpYb1lURm9QekJRNVZZZGhXTUluRXRYWjFQNTBQWHNEYlMzZUZVc3dMYUxKa0JMUml3Ym5qS3lvWm9KeTd2Yi1WNE5qTTg?oc=5
@@ -41,8 +41,8 @@ LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHBLcVRZT1FIRzhJVlVfQ
 === KFOOD ===
 
 1.
-TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - The Korea Economic Daily Global Edition
-SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - The Korea Economic Daily Global Edition
+TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
+SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHFrOXdHd3dxOXNJalJtc2U0T3VkTW8xUG5PeDd1VDhwc2w4cEJnM2lQa3FieThmUWRLa004WEFqY3VKZTFPT3k2M0F5cmp1cUVXOU1fYVI5UVNUQTJz?oc=5
