@@ -1,14 +1,7 @@
-[K-TREND AI INPUT - 2026-04-06]
+[K-TREND AI INPUT - 2026-04-09]
 
 
 === KPOP ===
-
-1.
-TITLE: K-animation's absence: Why Korea hasn't produced its own ‘Zootopia 2' or ‘KPop Demon Hunters' - koreatimes.co.kr
-SUMMARY: K-animation's absence: Why Korea hasn't produced its own ‘Zootopia 2' or ‘KPop Demon Hunters' - koreatimes.co.kr
-HOOK: KPOP 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlNYaEdDSUUwT2g3M0k4TW1ocTY5dkdfN1k1Z19CZ1lKT0tGNFVRSzdPQlVMUmFhU3dlLWZFeWkzWk5KZUdkeURHUUVCSl9rM2M1Y01CeG1qUElmU0g1WktxMlc4djBFbk1zazRqZUU2MnFmbTRwaS1PZUQwekFnY3JJX1A4RU1vYVV6ekhKVG9rZWNYTFdOTVdtYnFsRkxadkhPNXI3QWxTMGpXaUFLbHhyZnJrclZuek1neXg3YnBubFFIZThvLXVRTThkMGxqMGZRbUUzSWhMS1Fr0gHiAUFVX3lxTE5ISFJqZVYyVFBoOTRsdkd1S3V1aUVqOXp5a2lZUndyZklDTXlRRWdOWVRTNGdDQWVzLURuRloxR0dWSlg3QmRNbDVKSVROOXd3R0txOXdnRm1QY2Rpdm9WbTBLZks0eFd0S2VtODdNamZXNkpXelUzUlE0NDZ3dFNMSURodWRPbDJsN0tLMUY0OUo2aGE5U0J0ckdLNmt4TjdsZVY1Z1NDRVU1WTFBSndFa0RrVzFRTk56YUZXVTF6QXV4Z19uOGFzc29qOG5xcnJDZk9NNDZ1VGx0TkNvQTM3QXc?oc=5
 
 
 === KDRAMA ===
@@ -55,18 +48,18 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHFrOXdHd3dxOXNJalJtc2U0T3VkTW8xUG5PeDd1VDhwc2w4cEJnM2lQa3FieThmUWRLa004WEFqY3VKZTFPT3k2M0F5cmp1cUVXOU1fYVI5UVNUQTJz?oc=5
 
 2.
-TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - businesswire.com
-SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - businesswire.com
+TITLE: Gov't eyes K-food, K-beauty to drive growth in AI age - The Korea Times
+SUMMARY: Gov't eyes K-food, K-beauty to drive growth in AI age - The Korea Times
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMirgFBVV95cUxNQldrTWJJOUl6cldRSXgwWGJzd0RaT0ptU3hJYkp3UmRSaUg5UkhZT0NsYzlMa012STRTdnFPQlNLakFqd0I2VjRGVTlUT1dzQ2MzUDM2ck5HckVCRjJwOThla1F0QnZ2TUtCY3BEWmRSSXpYaFZFMUV3cG81SDJ0eWFKZ3prdmQ2ZW10dy1xc3pJSENiNHgyTHNQVGtrdkRqSUc0aXF5Rm5kWmZiQmfSAbMBQVVfeXFMTkdnYXVQeGhHVjVpTGE1S2tvWU9hakN6a2JTYmxYdkNPYUN1WTU3TUt3LWVVSEVnOEMySGVEMEdGTUg3SzFKMUpaZ0NZdDY4dTVyTHhwZnp5Q3JFOFJCV0hkaFpXN28zd1dZb0pXVmdFQm1CM2o1RzZaZ3pGbjFzc2Jmc0p6dzZkc0VtOGhXTjRRQnZDSl9CNWpFSUpockg5aXd4NUl5UjlLaEFCNU9TS1U1cUk?oc=5
+
+3.
+TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
+SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTS1rWlFfbWdfY05iYzlReThEaGtxd2ZmcG9hMk1BR3IxMHJ0LW53WHBLeEs1c2dfQmFfT0lyd2FxU09MRzNqdEZjWmlKNHl4THV4R0J4WG02ZUdMTDBXTy16NXBNanhlZ29GRzktVjVIZ2JDYjlaaEtXbXl1djFuS3ltNUk1SXM2TmVWYXAtZFlqSTVMLV9MZTFjaW5CN0ZlektYUzdZcTFDbE5yN1NENVNhVV9lWHp1MGRvdW5UNm5oVEtv?oc=5
-
-3.
-TITLE: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
-SUMMARY: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnEzcXFibHhCY3J0clYwM3NFUU1hdmhTcXAwdkdrOUUzaTlxeHhLOUZWNGdXSkZpUk11dVRIMDZaVEJobHJRcTVUdjdDSloyUWx3QndULXJmdzZwbktpVFh1MnZETWJzS2prWHdiSTB2M3dEc2dwcEJyNVJYbVdRYmNQVDhhZlpEWU9TSHlES24tWElzWEszdDJ3cDlPcVJaRGZmaC1ES3FtUzYwRkgtY2ZEQjk5NVk?oc=5
 
 4.
 TITLE: K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald
@@ -76,47 +69,47 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKa0JsYVp5S2VFSC1zN2hLSXdmRWRGQm1YaFlfMkNIaDhzQzR4c1ZtUjFKUjcxMWFSVnJGcmg4a014Y1FHTXpxM0RqY0didGMtNGh4WUJR?oc=5
 
 5.
-TITLE: Buldak ramen challenge viral
-SUMMARY: Spicy Korean ramen trend exploding globally
-HOOK: KFOOD 🔥 viral
-SOURCE: fallback
-LINK: https://youtube.com
+TITLE: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
+SUMMARY: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnEzcXFibHhCY3J0clYwM3NFUU1hdmhTcXAwdkdrOUUzaTlxeHhLOUZWNGdXSkZpUk11dVRIMDZaVEJobHJRcTVUdjdDSloyUWx3QndULXJmdzZwbktpVFh1MnZETWJzS2prWHdiSTB2M3dEc2dwcEJyNVJYbVdRYmNQVDhhZlpEWU9TSHlES24tWElzWEszdDJ3cDlPcVJaRGZmaC1ES3FtUzYwRkgtY2ZEQjk5NVk?oc=5
 
 
 === KOREA ===
 
 1.
-TITLE: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
-SUMMARY: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
+TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
+SUMMARY: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5
 
 2.
-TITLE: KCON taps ZB1's Sung Han-bin as first-ever ambassador - The Korea Herald
-SUMMARY: KCON taps ZB1's Sung Han-bin as first-ever ambassador - The Korea Herald
-HOOK: KOREA 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE90QjBkTXptdERmSDdrdkFCU09QTGtENFJXZHpNS0ktTmJfVUt2cW9uQWlnZ29JQzdiQjJVbVFMU1d2VllGalhrUFRvY3NoWXlKM0EzRUx2Yw?oc=5
-
-3.
-TITLE: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
-SUMMARY: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
-HOOK: KOREA 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2g5ckZtcUhMUFY0OENEdmxEQk9qMGhKYmtKckxNSzgyX2hJTDVsdVh3ajlSd251LTRXRE5QWXpyelpBb05VMnh6X0lVY01jbjZfMUhNVHcyTjdYM3J2d1pVTnNRT2dpR01RNDNjOXdYcXZSQ0IybjM0aVR6QldGZHdBZkNoVmE0aVB2bA?oc=5
-
-4.
 TITLE: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
 SUMMARY: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
 
-5.
-TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
-SUMMARY: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
+3.
+TITLE: How South Korea Became a Cultural Powerhouse, and What’s Next - The New York Times
+SUMMARY: How South Korea Became a Cultural Powerhouse, and What’s Next - The New York Times
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMigAFBVV95cUxPaE5YS0F4YkEtSkptMXpKUDVKWmJlOGVFVnRIN2ZFMGJST2pobDF5X2hfUVV0NURJcU9qRVZka3lteFNRY1VBUkFMTmlCVEFBQXF5WEtCVEtxWEJYRE5FMmFnVDZ4cUVsdmtYanh0Y0s5Wko0UVlsdDdmem1keDk5ag?oc=5
+
+4.
+TITLE: K-content boom reshapes global entertainment landscape - The Korea Times
+SUMMARY: K-content boom reshapes global entertainment landscape - The Korea Times
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2hjWFl5OGNENnNmN0VucEV0MDA2dUZtUTJrWmt2QVJfb3hhQzA0cHlGTWJxcGFpM3kxZEV4QjNGbTRkWGtNUlRhRV9EdXZKWENfUmxjbktaaHFBM3Fla3BZZEl6RUhtTmI5bktaaERlLTltZE9UZnNFQUIyWGxsbEtZSENHSmtlSm1QeHh0eXZxUXN3SS1BSDBJNHJwdVp5eXpsaUliMHJNX0hHSXfSAbMBQVVfeXFMT3lCRXEtYjExU3ZqSGpuRVNXUGFhblJTOUkydm9EWElvcEZ3RjZUczdVV0lIZ0l1alhNeHp3YkVPZEMzUjVrLXJUYnYtUk1UOENuaEk5SFVUdjktaTBFaVpTRnA5Tnk0NnI0VE9OMEh3T0s5Z091Y0Jmb1ZWaWxpTGF3c3EtQklkVHJpUjdsYkRhVHkxTk5DTzFseURTQkNqN19mQW9RSDQtckM0WHBBM1BSNVU?oc=5
+
+5.
+TITLE: Downtown Los Angeles hosting KCON, biggest K-pop fest in the world - NBC Los Angeles
+SUMMARY: Downtown Los Angeles hosting KCON, biggest K-pop fest in the world - NBC Los Angeles
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHVnWjE1NGtaVXpIcFZsYzJ4eVZrdGtBVm5MZF9HZXczSEtmZExpQzNscV9jNnpPUmdzdVo2aGNfeVhjOGhYN25td0xSM25RTXREX05PcVhpc1h0bXgtSmtzYUhFM2FIa2pSdDRhS0tLWTRqVXpNak5UY0h0NXJ2Smc4NHZKbDdmZ21uSUtZSWRQMEFtOFM4cHd0b1pLUm5vRExMM1U2TWHSAbABQVVfeXFMT3dhMW1ObEk3OFlpZW82VzJvVU5JUlhsZ3dlUE9rSlVScExzb1FSQUUwTUM5dEU1U1pKUmpIbzhVMENyQ1ktWldRX0VDdlI2cUg3OXJ5RkdKM3FhX1RFQU8yQXkyWElPTWpFYUZBTGl5OE0xekFiOVlkbHlrcGQzd2NmTWpFN0xNdTVtYkx4RTNzckx0X09ZMmpuUDJwdVN4X2VTZVRsS1U3NXQ4bjJSS0g?oc=5
 
