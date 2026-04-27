@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-04-23]
+[K-TREND AI INPUT - 2026-04-27]
 
 
 === KPOP ===
@@ -10,6 +10,13 @@
 === KBEAUTY ===
 
 1.
+TITLE: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
+SUMMARY: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHBLcVRZT1FIRzhJVlVfQnA0QzdFVEM2Szl6NGJyd1VobTdxbzgwZnFUTmVHZHF4UndLTnN0VlFBZlctbkJVR2Qzb1E1eTBCVE1BdldkOA?oc=5
+
+2.
 TITLE: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - KED Global
 SUMMARY: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - KED Global
 HOOK: KBEAUTY 뉴스
@@ -27,11 +34,11 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcFg1LVNGOXM3S0gxdzVRbjlNZEhWUXJWdlRPZktKTkdIbUZVQUJjWS03OG43S29obXNKRWlJeFZGa2EyT19vNWdZTjBJUTFUNVBOQnRjVnlfNFlEVXpaVlZqR3JRYVZ1X2RwVUtUNlJDUE9OWWd6ZmhIb25oZlJXTkdjdXN5VzdXb2FKOFpualRoN29CbWJjUGxPRVVFajhZdUUxSUI4SVk0VVBCU0RWTlpvUEdJekN5V0NUa01pRjdsN0J0dTFKTXFnRGF4dHBlTFVtWklTLXBCM2hsaFl3?oc=5
 
 2.
-TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
-SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
+TITLE: K-beauty, K-food on diverging paths in M&amp;A market - KED Global
+SUMMARY: K-beauty, K-food on diverging paths in M&amp;A market - KED Global
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHFrOXdHd3dxOXNJalJtc2U0T3VkTW8xUG5PeDd1VDhwc2w4cEJnM2lQa3FieThmUWRLa004WEFqY3VKZTFPT3k2M0F5cmp1cUVXOU1fYVI5UVNUQTJz?oc=5
+LINK: https://news.google.com/rss/articles/CBMie0FVX3lxTE9IMmRXdC1HOHNCaE1uRGw1bUhETlFSdkZ1X3JTcHV1NFRqNXBkT0RXei1iaEVYYlpUaWRWcEpnZ0JMdHFFSTVXM2pfY3FYUEx2VEJVa2JaamdTV1pMdTdwTHF5ZU02d245WUVfaVlFb3M5VW9lVGRRNnZKRQ?oc=5
 
 3.
 TITLE: APEC Boosts K-Beauty, K-Food Popularity - 조선일보
@@ -41,11 +48,11 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQallfN2sxaEZHZnBtQ01YaklZSGEtNlpWdWgtNWl1YVp4elZHcV8zQVBHOGVjRms2U1lFckhHTkM1aWdhcS0xS0Q1X3d1YUNnYUdmUUo0bUVWSUJmM01ub1FSaV9uR0dEdTV2U0Y0TjF6RzVuV3BUbWw0NTZkVTgtOGRESFRQemFG?oc=5
 
 4.
-TITLE: K-beauty, K-food on diverging paths in M&amp;A market - KED Global
-SUMMARY: K-beauty, K-food on diverging paths in M&amp;A market - KED Global
+TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
+SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMie0FVX3lxTE9IMmRXdC1HOHNCaE1uRGw1bUhETlFSdkZ1X3JTcHV1NFRqNXBkT0RXei1iaEVYYlpUaWRWcEpnZ0JMdHFFSTVXM2pfY3FYUEx2VEJVa2JaamdTV1pMdTdwTHF5ZU02d245WUVfaVlFb3M5VW9lVGRRNnZKRQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHFrOXdHd3dxOXNJalJtc2U0T3VkTW8xUG5PeDd1VDhwc2w4cEJnM2lQa3FieThmUWRLa004WEFqY3VKZTFPT3k2M0F5cmp1cUVXOU1fYVI5UVNUQTJz?oc=5
 
 5.
 TITLE: This weekend, Brussels turns into a mini-Seoul with an immersive festival of K-Food, K-Beauty and K-Culture. - Bruxelles Secrète
@@ -79,11 +86,11 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
 
 4.
-TITLE: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
-SUMMARY: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
+TITLE: SILICON2: DELIVERING K-TRENDS IN REAL TIME - The Worldfolio
+SUMMARY: SILICON2: DELIVERING K-TRENDS IN REAL TIME - The Worldfolio
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcHc5Z2ZCUERfY1NzbUlzSGlpNTJ1bUdfR3NnVU5PVVZFU01iOGtmSVBWR01scWxEY1ZOOEhxSi0tQzl6VUNBVURpb3FaN1dtY25YemZCVDk0SFVTcE41bGFMbnNRNkg1YkNTTjFCVXd2NTdqYnhmNWo5VQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUdfN3ptMGItQ1BuWkVSak9HalBaaGJlUmRaci1TQ1Awd2lKYkoxQk40cE9KUThKSWdLb3NSTWJsSWhEVU4ycTZfOWl2QjgyWU1MaVdYSWlYLTREa2hvejhmTXRUaW9JM2dHSmRBZS16ZEdWYXlkUGZhLUx0S2JfS2xQd3d0QTNTWmpGYjhKWjM?oc=5
 
 5.
 TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
