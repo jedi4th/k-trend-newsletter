@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-05-07]
+[K-TREND AI INPUT - 2026-05-11]
 
 
 === KPOP ===
@@ -17,6 +17,13 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMid0FVX3lxTE1neTlBWWJidS1UclZLVW5sUkN6dzdjYW9jd3laUWFQbXNDbjJXcWxEOXZjcEFkSHlRaXRFQU9BNjhteTJ1YTNqaHRaLUVjS0lDOFJLbVpUc19SN0NOZW85NlRmT3RscXFzUy02ZTJTbERuYnQwOWdZ?oc=5
 
 2.
+TITLE: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
+SUMMARY: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHBLcVRZT1FIRzhJVlVfQnA0QzdFVEM2Szl6NGJyd1VobTdxbzgwZnFUTmVHZHF4UndLTnN0VlFBZlctbkJVR2Qzb1E1eTBCVE1BdldkOA?oc=5
+
+3.
 TITLE: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - KED Global
 SUMMARY: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - KED Global
 HOOK: KBEAUTY 뉴스
@@ -65,30 +72,37 @@ LINK: https://news.google.com/rss/articles/CBMickFVX3lxTE02UVJEYWV3RW15REEwSmFFe
 === KOREA ===
 
 1.
+TITLE: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
+SUMMARY: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcHc5Z2ZCUERfY1NzbUlzSGlpNTJ1bUdfR3NnVU5PVVZFU01iOGtmSVBWR01scWxEY1ZOOEhxSi0tQzl6VUNBVURpb3FaN1dtY25YemZCVDk0SFVTcE41bGFMbnNRNkg1YkNTTjFCVXd2NTdqYnhmNWo5VQ?oc=5
+
+2.
 TITLE: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
 SUMMARY: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
 
-2.
+3.
 TITLE: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
 SUMMARY: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2g5ckZtcUhMUFY0OENEdmxEQk9qMGhKYmtKckxNSzgyX2hJTDVsdVh3ajlSd251LTRXRE5QWXpyelpBb05VMnh6X0lVY01jbjZfMUhNVHcyTjdYM3J2d1pVTnNRT2dpR01RNDNjOXdYcXZSQ0IybjM0aVR6QldGZHdBZkNoVmE0aVB2bA?oc=5
 
-3.
+4.
 TITLE: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
 SUMMARY: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
 
-4.
-TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
-SUMMARY: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
+5.
+TITLE: Korean Universities to Launch First-Ever "Korean Wave College" Exclusively for International Students - 아시아경제
+SUMMARY: Korean Universities to Launch First-Ever "Korean Wave College" Exclusively for International Students - 아시아경제
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnQkpGQVU4aGo2Rk9fdkNCYlNKRHJ0dkdnXzlycXl3dUdoV1ktU3k5SmJUSTJET1IwNENxOVExaUFaY1RvNHF1RE8wazVTWk5la0tDc1puVk5QQ2xwbXYwZWlMRGw?oc=5
 
