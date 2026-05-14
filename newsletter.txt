@@ -1,7 +1,14 @@
-[K-TREND AI INPUT - 2026-05-11]
+[K-TREND AI INPUT - 2026-05-14]
 
 
 === KPOP ===
+
+1.
+TITLE: K-animation's absence: Why Korea hasn't produced its own ‘Zootopia 2' or ‘KPop Demon Hunters' - The Korea Times
+SUMMARY: K-animation's absence: Why Korea hasn't produced its own ‘Zootopia 2' or ‘KPop Demon Hunters' - The Korea Times
+HOOK: KPOP 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlNYaEdDSUUwT2g3M0k4TW1ocTY5dkdfN1k1Z19CZ1lKT0tGNFVRSzdPQlVMUmFhU3dlLWZFeWkzWk5KZUdkeURHUUVCSl9rM2M1Y01CeG1qUElmU0g1WktxMlc4djBFbk1zazRqZUU2MnFmbTRwaS1PZUQwekFnY3JJX1A4RU1vYVV6ekhKVG9rZWNYTFdOTVdtYnFsRkxadkhPNXI3QWxTMGpXaUFLbHhyZnJrclZuek1neXg3YnBubFFIZThvLXVRTThkMGxqMGZRbUUzSWhMS1Fr0gHiAUFVX3lxTE5ISFJqZVYyVFBoOTRsdkd1S3V1aUVqOXp5a2lZUndyZklDTXlRRWdOWVRTNGdDQWVzLURuRloxR0dWSlg3QmRNbDVKSVROOXd3R0txOXdnRm1QY2Rpdm9WbTBLZks0eFd0S2VtODdNamZXNkpXelUzUlE0NDZ3dFNMSURodWRPbDJsN0tLMUY0OUo2aGE5U0J0ckdLNmt4TjdsZVY1Z1NDRVU1WTFBSndFa0RrVzFRTk56YUZXVTF6QXV4Z19uOGFzc29qOG5xcnJDZk9NNDZ1VGx0TkNvQTM3QXc?oc=5
 
 
 === KDRAMA ===
@@ -10,18 +17,18 @@
 === KBEAUTY ===
 
 1.
+TITLE: Roman Bernidoub (36) founded K-beauty company "KORU Pharma" in 2016 when he was a Ph.D. at Sogang Un.. - 매일경제
+SUMMARY: Roman Bernidoub (36) founded K-beauty company "KORU Pharma" in 2016 when he was a Ph.D. at Sogang Un.. - 매일경제
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiVkFVX3lxTE96ZTRIR2JHMjFhT3lrNlR0UzFvSUM1ZV9pS3JJb21FLXJaUHg1NWtrV01vUVdzbkUyUXl4b1JxUlJWTUZHcUJILW1oeTBOVkxzWHg4Ujd3?oc=5
+
+2.
 TITLE: Korean skincare: How to invest in the exploding K-beauty economic powerhouse - MoneyWeek
 SUMMARY: Korean skincare: How to invest in the exploding K-beauty economic powerhouse - MoneyWeek
 HOOK: KBEAUTY 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMid0FVX3lxTE1neTlBWWJidS1UclZLVW5sUkN6dzdjYW9jd3laUWFQbXNDbjJXcWxEOXZjcEFkSHlRaXRFQU9BNjhteTJ1YTNqaHRaLUVjS0lDOFJLbVpUc19SN0NOZW85NlRmT3RscXFzUy02ZTJTbERuYnQwOWdZ?oc=5
-
-2.
-TITLE: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
-SUMMARY: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
-HOOK: KBEAUTY 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHBLcVRZT1FIRzhJVlVfQnA0QzdFVEM2Szl6NGJyd1VobTdxbzgwZnFUTmVHZHF4UndLTnN0VlFBZlctbkJVR2Qzb1E1eTBCVE1BdldkOA?oc=5
 
 3.
 TITLE: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - KED Global
@@ -29,6 +36,13 @@ SUMMARY: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile 
 HOOK: KBEAUTY 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMic0FVX3lxTE9xbjRQSjhqM3oxakRFNVJXelBuVjRZb1ZqYm9FWXZCb25fOUQ4QmpYb1lURm9QekJRNVZZZGhXTUluRXRYWjFQNTBQWHNEYlMzZUZVc3dMYUxKa0JMUml3Ym5qS3lvWm9KeTd2Yi1WNE5qTTg?oc=5
+
+4.
+TITLE: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
+SUMMARY: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHBLcVRZT1FIRzhJVlVfQnA0QzdFVEM2Szl6NGJyd1VobTdxbzgwZnFUTmVHZHF4UndLTnN0VlFBZlctbkJVR2Qzb1E1eTBCVE1BdldkOA?oc=5
 
 
 === KFOOD ===
@@ -41,42 +55,42 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcFg1LVNGOXM3S0gxdzVRbjlNZEhWUXJWdlRPZktKTkdIbUZVQUJjWS03OG43S29obXNKRWlJeFZGa2EyT19vNWdZTjBJUTFUNVBOQnRjVnlfNFlEVXpaVlZqR3JRYVZ1X2RwVUtUNlJDUE9OWWd6ZmhIb25oZlJXTkdjdXN5VzdXb2FKOFpualRoN29CbWJjUGxPRVVFajhZdUUxSUI4SVk0VVBCU0RWTlpvUEdJekN5V0NUa01pRjdsN0J0dTFKTXFnRGF4dHBlTFVtWklTLXBCM2hsaFl3?oc=5
 
 2.
-TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
-SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
+TITLE: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
+SUMMARY: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHFrOXdHd3dxOXNJalJtc2U0T3VkTW8xUG5PeDd1VDhwc2w4cEJnM2lQa3FieThmUWRLa004WEFqY3VKZTFPT3k2M0F5cmp1cUVXOU1fYVI5UVNUQTJz?oc=5
+LINK: https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnEzcXFibHhCY3J0clYwM3NFUU1hdmhTcXAwdkdrOUUzaTlxeHhLOUZWNGdXSkZpUk11dVRIMDZaVEJobHJRcTVUdjdDSloyUWx3QndULXJmdzZwbktpVFh1MnZETWJzS2prWHdiSTB2M3dEc2dwcEJyNVJYbVdRYmNQVDhhZlpEWU9TSHlES24tWElzWEszdDJ3cDlPcVJaRGZmaC1ES3FtUzYwRkgtY2ZEQjk5NVk?oc=5
 
 3.
-TITLE: APEC Boosts K-Beauty, K-Food Popularity - 조선일보
-SUMMARY: APEC Boosts K-Beauty, K-Food Popularity - 조선일보
+TITLE: Innovative Ads From South Korea Feature K-Pop, K-Food and Car Parts as High Fashion - Muse by Clio
+SUMMARY: Innovative Ads From South Korea Feature K-Pop, K-Food and Car Parts as High Fashion - Muse by Clio
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQallfN2sxaEZHZnBtQ01YaklZSGEtNlpWdWgtNWl1YVp4elZHcV8zQVBHOGVjRms2U1lFckhHTkM1aWdhcS0xS0Q1X3d1YUNnYUdmUUo0bUVWSUJmM01ub1FSaV9uR0dEdTV2U0Y0TjF6RzVuV3BUbWw0NTZkVTgtOGRESFRQemFG?oc=5
+LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVdWNFBzVHMtWk5iVGw4LWYyOXlpQldqcUV0eW5HLUR3ZkNpQkNkd1dvSUNReUhaRzVuWmljZkFoUERsZ0k3YVR1TE90OG5DVTRkSm9Mc3U5Ty12b1c1VmltSlRWZEdKWDBSakZEdjJDNGd5VllMNTVjV2pfajRTN1k5ZU1TN1NEY1RkRU9XWEh2dUlJZnVmcVoyVlBfcnkwbzgwek41M01JblRFbHZLU0RKWERvdFZpT2c?oc=5
 
 4.
-TITLE: K-Beauty and K-Food Dazzle Brussels at “Unboxing Korea” Festival - Koreabizwire
-SUMMARY: K-Beauty and K-Food Dazzle Brussels at “Unboxing Korea” Festival - Koreabizwire
+TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
+SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzVtdXdPY01pQmtjLVBiNXphZExvTlUyZzRQVVdfUi1rSWdUX1V1U0hRXzdKOGRuRGo4RGxRdWY2U1dWZ0NZRUdEWU9KeUZDb0ZGUnBHQjgyWGlfcWJTTXZMaHMzczRGOFNHNmY3MnE1MThKNkUwTjl4MDVzT3ZEQlczWnJXYnFmcE9Ud1VIWUMtdVcxX1hyTQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTS1rWlFfbWdfY05iYzlReThEaGtxd2ZmcG9hMk1BR3IxMHJ0LW53WHBLeEs1c2dfQmFfT0lyd2FxU09MRzNqdEZjWmlKNHl4THV4R0J4WG02ZUdMTDBXTy16NXBNanhlZ29GRzktVjVIZ2JDYjlaaEtXbXl1djFuS3ltNUk1SXM2TmVWYXAtZFlqSTVMLV9MZTFjaW5CN0ZlektYUzdZcTFDbE5yN1NENVNhVV9lWHp1MGRvdW5UNm5oVEtv?oc=5
 
 5.
-TITLE: This weekend, Brussels turns into a mini-Seoul with an immersive festival of K-Food, K-Beauty and K-Culture. - Bruxelles Secrète
-SUMMARY: This weekend, Brussels turns into a mini-Seoul with an immersive festival of K-Food, K-Beauty and K-Culture. - Bruxelles Secrète
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMickFVX3lxTE02UVJEYWV3RW15REEwSmFFem9wNnJlSm5oeW5MRGNHbHc3VDdaZW5xU21PSHhUeW5peTJPeUJlY0JBMUoxamUzZVVkN0hMME00R2Fmc2k1TUdTT2drMnF5TVVCQlRKZFhxLWY0VEFWLXpLZw?oc=5
+TITLE: Buldak ramen challenge viral
+SUMMARY: Spicy Korean ramen trend exploding globally
+HOOK: KFOOD 🔥 viral
+SOURCE: fallback
+LINK: https://youtube.com
 
 
 === KOREA ===
 
 1.
-TITLE: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
-SUMMARY: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
+TITLE: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
+SUMMARY: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcHc5Z2ZCUERfY1NzbUlzSGlpNTJ1bUdfR3NnVU5PVVZFU01iOGtmSVBWR01scWxEY1ZOOEhxSi0tQzl6VUNBVURpb3FaN1dtY25YemZCVDk0SFVTcE41bGFMbnNRNkg1YkNTTjFCVXd2NTdqYnhmNWo5VQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGNKaFM3TFJEV241anM5ekQ2Y3B2N3REWkxJU0MyNVNBcUpOd3JUVTNDYTVXMDQ1X3pJemlNMVF4dm1VbGthWHN0a1I2RkFXTTVydEdmQlVtQU5hU1V6T0NRdVlwbHdfMDBnakdTejd1RzNhWjhwQm02UkNibHJxcTFqODh3WFJnQ1FIWlc4R0ZGNmlfTGh3clJPbWQzUmFLYUlxLVFMdzhZeUdYSXRSOTlNUkpMcE9VNjY5X280dnJSRjd4X3VPSTJLRDBibWNsX0HSAdIBQVVfeXFMTWpvUXBNdDJyUHd1WFhQZFB4RmF5LWF3LXZXdGpSWkw5T3o5VlcycHJrLVRRLXdFbmZwSXZRd1VaT285UnA4aTZXNUtNZ3llSG9XTmlnUHFPRHhTQUUxdlNBaEs0X3hvVE82Z2lNQzl4ZUpHOWVKenN6U0NEX3RmSk5zdGJncjRKVjg0VVY4Ujc1QWN2QU5pWmY5aGRuUXVySldDdnBfQ0JDOXVHeERFeTBsenU1LWlOa1ZHLXZtcEhIRUlPY2tiUGRmMU1Gb3JuMGRn?oc=5
 
 2.
 TITLE: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
@@ -100,9 +114,9 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
 
 5.
-TITLE: Korean Universities to Launch First-Ever "Korean Wave College" Exclusively for International Students - 아시아경제
-SUMMARY: Korean Universities to Launch First-Ever "Korean Wave College" Exclusively for International Students - 아시아경제
+TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
+SUMMARY: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnQkpGQVU4aGo2Rk9fdkNCYlNKRHJ0dkdnXzlycXl3dUdoV1ktU3k5SmJUSTJET1IwNENxOVExaUFaY1RvNHF1RE8wazVTWk5la0tDc1puVk5QQ2xwbXYwZWlMRGw?oc=5
+LINK: https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5
 
