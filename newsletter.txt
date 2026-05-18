@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-05-14]
+[K-TREND AI INPUT - 2026-05-18]
 
 
 === KPOP ===
@@ -44,6 +44,13 @@ HOOK: KBEAUTY 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHBLcVRZT1FIRzhJVlVfQnA0QzdFVEM2Szl6NGJyd1VobTdxbzgwZnFUTmVHZHF4UndLTnN0VlFBZlctbkJVR2Qzb1E1eTBCVE1BdldkOA?oc=5
 
+5.
+TITLE: Emart24 Opens Ramen-Themed Store in Myeongdong with K-Beauty, K-Pop - Seoul Economic Daily
+SUMMARY: Emart24 Opens Ramen-Themed Store in Myeongdong with K-Beauty, K-Pop - Seoul Economic Daily
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGlPT2Q2eUplaHdMR2UyUGluUFVNOFF6UVlWWEUxUXMzMU1NNkVKTUtpa1NLc01YWnR2bTNxcW1oNXEwSTRVcU94ejdqT244alF6eTZqOWFlY08xVVpSMWc1TXlWOW5ic0xkYVl4RmFrTmxVR3phU2tqelAyZ3hqVnU0cGc5LVZXMDhUMzQyRVFkSXY0bmdaMndwSQ?oc=5
+
 
 === KFOOD ===
 
@@ -55,27 +62,20 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcFg1LVNGOXM3S0gxdzVRbjlNZEhWUXJWdlRPZktKTkdIbUZVQUJjWS03OG43S29obXNKRWlJeFZGa2EyT19vNWdZTjBJUTFUNVBOQnRjVnlfNFlEVXpaVlZqR3JRYVZ1X2RwVUtUNlJDUE9OWWd6ZmhIb25oZlJXTkdjdXN5VzdXb2FKOFpualRoN29CbWJjUGxPRVVFajhZdUUxSUI4SVk0VVBCU0RWTlpvUEdJekN5V0NUa01pRjdsN0J0dTFKTXFnRGF4dHBlTFVtWklTLXBCM2hsaFl3?oc=5
 
 2.
-TITLE: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
-SUMMARY: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnEzcXFibHhCY3J0clYwM3NFUU1hdmhTcXAwdkdrOUUzaTlxeHhLOUZWNGdXSkZpUk11dVRIMDZaVEJobHJRcTVUdjdDSloyUWx3QndULXJmdzZwbktpVFh1MnZETWJzS2prWHdiSTB2M3dEc2dwcEJyNVJYbVdRYmNQVDhhZlpEWU9TSHlES24tWElzWEszdDJ3cDlPcVJaRGZmaC1ES3FtUzYwRkgtY2ZEQjk5NVk?oc=5
-
-3.
 TITLE: Innovative Ads From South Korea Feature K-Pop, K-Food and Car Parts as High Fashion - Muse by Clio
 SUMMARY: Innovative Ads From South Korea Feature K-Pop, K-Food and Car Parts as High Fashion - Muse by Clio
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVdWNFBzVHMtWk5iVGw4LWYyOXlpQldqcUV0eW5HLUR3ZkNpQkNkd1dvSUNReUhaRzVuWmljZkFoUERsZ0k3YVR1TE90OG5DVTRkSm9Mc3U5Ty12b1c1VmltSlRWZEdKWDBSakZEdjJDNGd5VllMNTVjV2pfajRTN1k5ZU1TN1NEY1RkRU9XWEh2dUlJZnVmcVoyVlBfcnkwbzgwek41M01JblRFbHZLU0RKWERvdFZpT2c?oc=5
 
-4.
+3.
 TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTS1rWlFfbWdfY05iYzlReThEaGtxd2ZmcG9hMk1BR3IxMHJ0LW53WHBLeEs1c2dfQmFfT0lyd2FxU09MRzNqdEZjWmlKNHl4THV4R0J4WG02ZUdMTDBXTy16NXBNanhlZ29GRzktVjVIZ2JDYjlaaEtXbXl1djFuS3ltNUk1SXM2TmVWYXAtZFlqSTVMLV9MZTFjaW5CN0ZlektYUzdZcTFDbE5yN1NENVNhVV9lWHp1MGRvdW5UNm5oVEtv?oc=5
 
-5.
+4.
 TITLE: Buldak ramen challenge viral
 SUMMARY: Spicy Korean ramen trend exploding globally
 HOOK: KFOOD 🔥 viral
@@ -100,11 +100,11 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
 
 3.
-TITLE: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
-SUMMARY: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
+TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
+SUMMARY: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2g5ckZtcUhMUFY0OENEdmxEQk9qMGhKYmtKckxNSzgyX2hJTDVsdVh3ajlSd251LTRXRE5QWXpyelpBb05VMnh6X0lVY01jbjZfMUhNVHcyTjdYM3J2d1pVTnNRT2dpR01RNDNjOXdYcXZSQ0IybjM0aVR6QldGZHdBZkNoVmE0aVB2bA?oc=5
+LINK: https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5
 
 4.
 TITLE: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
@@ -114,9 +114,9 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
 
 5.
-TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
-SUMMARY: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
+TITLE: How South Korea Became a Cultural Powerhouse, and What’s Next - The New York Times
+SUMMARY: How South Korea Became a Cultural Powerhouse, and What’s Next - The New York Times
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMigAFBVV95cUxPaE5YS0F4YkEtSkptMXpKUDVKWmJlOGVFVnRIN2ZFMGJST2pobDF5X2hfUVV0NURJcU9qRVZka3lteFNRY1VBUkFMTmlCVEFBQXF5WEtCVEtxWEJYRE5FMmFnVDZ4cUVsdmtYanh0Y0s5Wko0UVlsdDdmem1keDk5ag?oc=5
 
