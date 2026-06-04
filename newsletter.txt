@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-06-01]
+[K-TREND AI INPUT - 2026-06-04]
 
 
 === KPOP ===
@@ -17,11 +17,11 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMid0FVX3lxTE1neTlBWWJidS1UclZLVW5sUkN6dzdjYW9jd3laUWFQbXNDbjJXcWxEOXZjcEFkSHlRaXRFQU9BNjhteTJ1YTNqaHRaLUVjS0lDOFJLbVpUc19SN0NOZW85NlRmT3RscXFzUy02ZTJTbERuYnQwOWdZ?oc=5
 
 2.
-TITLE: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
-SUMMARY: K-beauty artists take over New York in 'Perfect Glow' - The Korea Herald
+TITLE: "I Want Korean Nationality"?K-Beauty Dominates Don Quijote in Japan amid Soaring Popularity [K-Wave 3.0] ⑦ - 아시아경제
+SUMMARY: "I Want Korean Nationality"?K-Beauty Dominates Don Quijote in Japan amid Soaring Popularity [K-Wave 3.0] ⑦ - 아시아경제
 HOOK: KBEAUTY 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHBLcVRZT1FIRzhJVlVfQnA0QzdFVEM2Szl6NGJyd1VobTdxbzgwZnFUTmVHZHF4UndLTnN0VlFBZlctbkJVR2Qzb1E1eTBCVE1BdldkOA?oc=5
+LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUExHUXd0a3NPY0dFdW1MN01RYTJJTVVjcGZtTS04RlFqa1ZkRUQ2SHlGaUx0Z1VQYWJzdXBkek8xaWdZeGxIVnpwZUhIN3VVaUFxUHRlNnNfQnhvSXhiZnZDQXk?oc=5
 
 3.
 TITLE: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - KED Global
@@ -55,18 +55,18 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQallfN2sxaEZHZnBtQ01YaklZSGEtNlpWdWgtNWl1YVp4elZHcV8zQVBHOGVjRms2U1lFckhHTkM1aWdhcS0xS0Q1X3d1YUNnYUdmUUo0bUVWSUJmM01ub1FSaV9uR0dEdTV2U0Y0TjF6RzVuV3BUbWw0NTZkVTgtOGRESFRQemFG?oc=5
 
 4.
-TITLE: K-beauty, K-food exports to US jolted as 15% tariffs go into effect - KED Global
-SUMMARY: K-beauty, K-food exports to US jolted as 15% tariffs go into effect - KED Global
+TITLE: Double squeeze: Weak won, US tariffs tighten grip on K-food, K-beauty - The Korea Herald
+SUMMARY: Double squeeze: Weak won, US tariffs tighten grip on K-food, K-beauty - The Korea Herald
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMidkFVX3lxTE1EZWtSMVVIeUFJUE04dXZwTTVFRERibUJrSzlwNTQ2VUVvQjZvQ3BFMEVxekw2RFVVbF9SdWlTdDRwS1BrakhBSF9sTUFnYzZiTlRJS01DTTZ2cjFBYUNmenFfX1JMR2hBQmtRdFdUYVBXU2VJQWc?oc=5
+LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyTldZZzh1Q0ctbWZiOVB1blNZMEJTak9DRGszd1BOVUV6cV9hVFZvNGhMYXd0QzlrWlpEdS0zNkdYcERhU0FoYmRid0wwWFIydW8zMVhiTQ?oc=5
 
 5.
-TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
-SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
+TITLE: KOTRA Hosts First Integrated K-Beauty and K-Food Exhibition in Czech Republic... "K-Consumer Goods Promotion in Prague" Held - 아시아경제
+SUMMARY: KOTRA Hosts First Integrated K-Beauty and K-Food Exhibition in Czech Republic... "K-Consumer Goods Promotion in Prague" Held - 아시아경제
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTS1rWlFfbWdfY05iYzlReThEaGtxd2ZmcG9hMk1BR3IxMHJ0LW53WHBLeEs1c2dfQmFfT0lyd2FxU09MRzNqdEZjWmlKNHl4THV4R0J4WG02ZUdMTDBXTy16NXBNanhlZ29GRzktVjVIZ2JDYjlaaEtXbXl1djFuS3ltNUk1SXM2TmVWYXAtZFlqSTVMLV9MZTFjaW5CN0ZlektYUzdZcTFDbE5yN1NENVNhVV9lWHp1MGRvdW5UNm5oVEtv?oc=5
+LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4QnlQWlNHMWlRbmlJQkg5bUV4RW42dVlFVW82T0RUS2V2eGtGdlFyMm1GbXBabnJxYjAzQkxsS3pVN2RBTjlVTnNuVlZoQ08yM0tLaXhyMVFVLTlObEF0dHRjYVA?oc=5
 
 
 === KOREA ===
@@ -79,30 +79,16 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
 
 2.
-TITLE: Korean Universities to Launch First-Ever "Korean Wave College" Exclusively for International Students - 아시아경제
-SUMMARY: Korean Universities to Launch First-Ever "Korean Wave College" Exclusively for International Students - 아시아경제
-HOOK: KOREA 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnQkpGQVU4aGo2Rk9fdkNCYlNKRHJ0dkdnXzlycXl3dUdoV1ktU3k5SmJUSTJET1IwNENxOVExaUFaY1RvNHF1RE8wazVTWk5la0tDc1puVk5QQ2xwbXYwZWlMRGw?oc=5
-
-3.
 TITLE: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
 SUMMARY: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2g5ckZtcUhMUFY0OENEdmxEQk9qMGhKYmtKckxNSzgyX2hJTDVsdVh3ajlSd251LTRXRE5QWXpyelpBb05VMnh6X0lVY01jbjZfMUhNVHcyTjdYM3J2d1pVTnNRT2dpR01RNDNjOXdYcXZSQ0IybjM0aVR6QldGZHdBZkNoVmE0aVB2bA?oc=5
 
-4.
+3.
 TITLE: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
 SUMMARY: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
-
-5.
-TITLE: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
-SUMMARY: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
-HOOK: KOREA 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGNKaFM3TFJEV241anM5ekQ2Y3B2N3REWkxJU0MyNVNBcUpOd3JUVTNDYTVXMDQ1X3pJemlNMVF4dm1VbGthWHN0a1I2RkFXTTVydEdmQlVtQU5hU1V6T0NRdVlwbHdfMDBnakdTejd1RzNhWjhwQm02UkNibHJxcTFqODh3WFJnQ1FIWlc4R0ZGNmlfTGh3clJPbWQzUmFLYUlxLVFMdzhZeUdYSXRSOTlNUkpMcE9VNjY5X280dnJSRjd4X3VPSTJLRDBibWNsX0HSAdIBQVVfeXFMTWpvUXBNdDJyUHd1WFhQZFB4RmF5LWF3LXZXdGpSWkw5T3o5VlcycHJrLVRRLXdFbmZwSXZRd1VaT285UnA4aTZXNUtNZ3llSG9XTmlnUHFPRHhTQUUxdlNBaEs0X3hvVE82Z2lNQzl4ZUpHOWVKenN6U0NEX3RmSk5zdGJncjRKVjg0VVY4Ujc1QWN2QU5pWmY5aGRuUXVySldDdnBfQ0JDOXVHeERFeTBsenU1LWlOa1ZHLXZtcEhIRUlPY2tiUGRmMU1Gb3JuMGRn?oc=5
 
