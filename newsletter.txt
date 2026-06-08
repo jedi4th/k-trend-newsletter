@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-06-04]
+[K-TREND AI INPUT - 2026-06-08]
 
 
 === KPOP ===
@@ -17,18 +17,18 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMid0FVX3lxTE1neTlBWWJidS1UclZLVW5sUkN6dzdjYW9jd3laUWFQbXNDbjJXcWxEOXZjcEFkSHlRaXRFQU9BNjhteTJ1YTNqaHRaLUVjS0lDOFJLbVpUc19SN0NOZW85NlRmT3RscXFzUy02ZTJTbERuYnQwOWdZ?oc=5
 
 2.
-TITLE: "I Want Korean Nationality"?K-Beauty Dominates Don Quijote in Japan amid Soaring Popularity [K-Wave 3.0] ⑦ - 아시아경제
-SUMMARY: "I Want Korean Nationality"?K-Beauty Dominates Don Quijote in Japan amid Soaring Popularity [K-Wave 3.0] ⑦ - 아시아경제
-HOOK: KBEAUTY 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUExHUXd0a3NPY0dFdW1MN01RYTJJTVVjcGZtTS04RlFqa1ZkRUQ2SHlGaUx0Z1VQYWJzdXBkek8xaWdZeGxIVnpwZUhIN3VVaUFxUHRlNnNfQnhvSXhiZnZDQXk?oc=5
-
-3.
 TITLE: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - KED Global
 SUMMARY: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - KED Global
 HOOK: KBEAUTY 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMic0FVX3lxTE9xbjRQSjhqM3oxakRFNVJXelBuVjRZb1ZqYm9FWXZCb25fOUQ4QmpYb1lURm9QekJRNVZZZGhXTUluRXRYWjFQNTBQWHNEYlMzZUZVc3dMYUxKa0JMUml3Ym5qS3lvWm9KeTd2Yi1WNE5qTTg?oc=5
+
+3.
+TITLE: "I Want Korean Nationality"?K-Beauty Dominates Don Quijote in Japan amid Soaring Popularity [K-Wave 3.0] ⑦ - 아시아경제
+SUMMARY: "I Want Korean Nationality"?K-Beauty Dominates Don Quijote in Japan amid Soaring Popularity [K-Wave 3.0] ⑦ - 아시아경제
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUExHUXd0a3NPY0dFdW1MN01RYTJJTVVjcGZtTS04RlFqa1ZkRUQ2SHlGaUx0Z1VQYWJzdXBkek8xaWdZeGxIVnpwZUhIN3VVaUFxUHRlNnNfQnhvSXhiZnZDQXk?oc=5
 
 
 === KFOOD ===
@@ -41,11 +41,11 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcFg1LVNGOXM3S0gxdzVRbjlNZEhWUXJWdlRPZktKTkdIbUZVQUJjWS03OG43S29obXNKRWlJeFZGa2EyT19vNWdZTjBJUTFUNVBOQnRjVnlfNFlEVXpaVlZqR3JRYVZ1X2RwVUtUNlJDUE9OWWd6ZmhIb25oZlJXTkdjdXN5VzdXb2FKOFpualRoN29CbWJjUGxPRVVFajhZdUUxSUI4SVk0VVBCU0RWTlpvUEdJekN5V0NUa01pRjdsN0J0dTFKTXFnRGF4dHBlTFVtWklTLXBCM2hsaFl3?oc=5
 
 2.
-TITLE: K-beauty, K-food on diverging paths in M&amp;A market - KED Global
-SUMMARY: K-beauty, K-food on diverging paths in M&amp;A market - KED Global
+TITLE: K-beauty, K-food exports to US jolted as 15% tariffs go into effect - KED Global
+SUMMARY: K-beauty, K-food exports to US jolted as 15% tariffs go into effect - KED Global
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMie0FVX3lxTE9IMmRXdC1HOHNCaE1uRGw1bUhETlFSdkZ1X3JTcHV1NFRqNXBkT0RXei1iaEVYYlpUaWRWcEpnZ0JMdHFFSTVXM2pfY3FYUEx2VEJVa2JaamdTV1pMdTdwTHF5ZU02d245WUVfaVlFb3M5VW9lVGRRNnZKRQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMidkFVX3lxTE1EZWtSMVVIeUFJUE04dXZwTTVFRERibUJrSzlwNTQ2VUVvQjZvQ3BFMEVxekw2RFVVbF9SdWlTdDRwS1BrakhBSF9sTUFnYzZiTlRJS01DTTZ2cjFBYUNmenFfX1JMR2hBQmtRdFdUYVBXU2VJQWc?oc=5
 
 3.
 TITLE: APEC Boosts K-Beauty, K-Food Popularity - 조선일보
@@ -55,18 +55,18 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQallfN2sxaEZHZnBtQ01YaklZSGEtNlpWdWgtNWl1YVp4elZHcV8zQVBHOGVjRms2U1lFckhHTkM1aWdhcS0xS0Q1X3d1YUNnYUdmUUo0bUVWSUJmM01ub1FSaV9uR0dEdTV2U0Y0TjF6RzVuV3BUbWw0NTZkVTgtOGRESFRQemFG?oc=5
 
 4.
-TITLE: Double squeeze: Weak won, US tariffs tighten grip on K-food, K-beauty - The Korea Herald
-SUMMARY: Double squeeze: Weak won, US tariffs tighten grip on K-food, K-beauty - The Korea Herald
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyTldZZzh1Q0ctbWZiOVB1blNZMEJTak9DRGszd1BOVUV6cV9hVFZvNGhMYXd0QzlrWlpEdS0zNkdYcERhU0FoYmRid0wwWFIydW8zMVhiTQ?oc=5
-
-5.
 TITLE: KOTRA Hosts First Integrated K-Beauty and K-Food Exhibition in Czech Republic... "K-Consumer Goods Promotion in Prague" Held - 아시아경제
 SUMMARY: KOTRA Hosts First Integrated K-Beauty and K-Food Exhibition in Czech Republic... "K-Consumer Goods Promotion in Prague" Held - 아시아경제
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4QnlQWlNHMWlRbmlJQkg5bUV4RW42dVlFVW82T0RUS2V2eGtGdlFyMm1GbXBabnJxYjAzQkxsS3pVN2RBTjlVTnNuVlZoQ08yM0tLaXhyMVFVLTlObEF0dHRjYVA?oc=5
+
+5.
+TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
+SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTS1rWlFfbWdfY05iYzlReThEaGtxd2ZmcG9hMk1BR3IxMHJ0LW53WHBLeEs1c2dfQmFfT0lyd2FxU09MRzNqdEZjWmlKNHl4THV4R0J4WG02ZUdMTDBXTy16NXBNanhlZ29GRzktVjVIZ2JDYjlaaEtXbXl1djFuS3ltNUk1SXM2TmVWYXAtZFlqSTVMLV9MZTFjaW5CN0ZlektYUzdZcTFDbE5yN1NENVNhVV9lWHp1MGRvdW5UNm5oVEtv?oc=5
 
 
 === KOREA ===
@@ -79,16 +79,23 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
 
 2.
+TITLE: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
+SUMMARY: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
+
+3.
 TITLE: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
 SUMMARY: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2g5ckZtcUhMUFY0OENEdmxEQk9qMGhKYmtKckxNSzgyX2hJTDVsdVh3ajlSd251LTRXRE5QWXpyelpBb05VMnh6X0lVY01jbjZfMUhNVHcyTjdYM3J2d1pVTnNRT2dpR01RNDNjOXdYcXZSQ0IybjM0aVR6QldGZHdBZkNoVmE0aVB2bA?oc=5
 
-3.
-TITLE: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
-SUMMARY: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
+4.
+TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
+SUMMARY: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
+LINK: https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5
 
