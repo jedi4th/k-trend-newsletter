@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-06-11]
+[K-TREND AI INPUT - 2026-06-15]
 
 
 === KPOP ===
@@ -37,60 +37,67 @@ HOOK: KBEAUTY 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbHBLcVRZT1FIRzhJVlVfQnA0QzdFVEM2Szl6NGJyd1VobTdxbzgwZnFUTmVHZHF4UndLTnN0VlFBZlctbkJVR2Qzb1E1eTBCVE1BdldkOA?oc=5
 
+4.
+TITLE: Top South Korean stylists give New Yorkers K-beauty makeovers in reality show Perfect Glow - The Straits Times
+SUMMARY: Top South Korean stylists give New Yorkers K-beauty makeovers in reality show Perfect Glow - The Straits Times
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNm42ZG9wdnBIX21KTm41ZjdqWVJ5S250eGtybWhfMjRWRVE0ZXJmNDNDbnF6akRCVkVYMVhuN193UEk1c20zVU40X25qeW92Nm5HQjBDQ1lYTkhFWXB1Z3UwN1F5OE5FdS1nTlo0YkluSENSVGZ1OEFMU3JTYzBDcGNvWm1VSjlPRXhQRkhMaTBDTE1Zb2gyUF9VX290dkVNSVg1cFQwX3NlNExDMDdSUDdDMkhXbnNROFdxWVpKdF9DQWhkbG9YMGZZVDB2NUJKanRaTQ?oc=5
+
 
 === KFOOD ===
 
 1.
-TITLE: KCON Japan 2026 to showcase K-beauty, K-food, and K-content innovations - Korea JoongAng Daily
-SUMMARY: KCON Japan 2026 to showcase K-beauty, K-food, and K-content innovations - Korea JoongAng Daily
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcFg1LVNGOXM3S0gxdzVRbjlNZEhWUXJWdlRPZktKTkdIbUZVQUJjWS03OG43S29obXNKRWlJeFZGa2EyT19vNWdZTjBJUTFUNVBOQnRjVnlfNFlEVXpaVlZqR3JRYVZ1X2RwVUtUNlJDUE9OWWd6ZmhIb25oZlJXTkdjdXN5VzdXb2FKOFpualRoN29CbWJjUGxPRVVFajhZdUUxSUI4SVk0VVBCU0RWTlpvUEdJekN5V0NUa01pRjdsN0J0dTFKTXFnRGF4dHBlTFVtWklTLXBCM2hsaFl3?oc=5
-
-2.
 TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
 SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHFrOXdHd3dxOXNJalJtc2U0T3VkTW8xUG5PeDd1VDhwc2w4cEJnM2lQa3FieThmUWRLa004WEFqY3VKZTFPT3k2M0F5cmp1cUVXOU1fYVI5UVNUQTJz?oc=5
 
-3.
+2.
 TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTS1rWlFfbWdfY05iYzlReThEaGtxd2ZmcG9hMk1BR3IxMHJ0LW53WHBLeEs1c2dfQmFfT0lyd2FxU09MRzNqdEZjWmlKNHl4THV4R0J4WG02ZUdMTDBXTy16NXBNanhlZ29GRzktVjVIZ2JDYjlaaEtXbXl1djFuS3ltNUk1SXM2TmVWYXAtZFlqSTVMLV9MZTFjaW5CN0ZlektYUzdZcTFDbE5yN1NENVNhVV9lWHp1MGRvdW5UNm5oVEtv?oc=5
 
-4.
-TITLE: Innovative Ads From South Korea Feature K-Pop, K-Food and Car Parts as High Fashion - Muse by Clio
-SUMMARY: Innovative Ads From South Korea Feature K-Pop, K-Food and Car Parts as High Fashion - Muse by Clio
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVdWNFBzVHMtWk5iVGw4LWYyOXlpQldqcUV0eW5HLUR3ZkNpQkNkd1dvSUNReUhaRzVuWmljZkFoUERsZ0k3YVR1TE90OG5DVTRkSm9Mc3U5Ty12b1c1VmltSlRWZEdKWDBSakZEdjJDNGd5VllMNTVjV2pfajRTN1k5ZU1TN1NEY1RkRU9XWEh2dUlJZnVmcVoyVlBfcnkwbzgwek41M01JblRFbHZLU0RKWERvdFZpT2c?oc=5
-
-5.
+3.
 TITLE: Daniel Dae Kim explores booming South Korean pop, film, cosmetics and food influences for CNN series - WHEC.com
 SUMMARY: Daniel Dae Kim explores booming South Korean pop, film, cosmetics and food influences for CNN series - WHEC.com
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMizAFBVV95cUxNVGpKY0haSm5HanNFaTdGR2RYTHl0X0hPd1RBRHlKRUZxYmZfMHVkUjdkY0lZdF94NU1teEREbjNtNDVacmtzVnFval8xaUJ4T085LU03aThiR1oyc2Q0SldvRVlWZFFEUmEzcFRhVE1IeDFjdmwzTTEtZllQdEswdTNVeGlIWVo4ZzBSdGtDRVBIdnhsQmQ1SDA1OEwtSzJ3V0lWbjRHWGROWmxtUVhtb0hJbnBzdW80eUlJMlZXdk42QzdSWHlzWHg2a3U?oc=5
 
+4.
+TITLE: K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald
+SUMMARY: K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKa0JsYVp5S2VFSC1zN2hLSXdmRWRGQm1YaFlfMkNIaDhzQzR4c1ZtUjFKUjcxMWFSVnJGcmg4a014Y1FHTXpxM0RqY0didGMtNGh4WUJR?oc=5
+
+5.
+TITLE: Buldak ramen challenge viral
+SUMMARY: Spicy Korean ramen trend exploding globally
+HOOK: KFOOD 🔥 viral
+SOURCE: fallback
+LINK: https://youtube.com
+
 
 === KOREA ===
 
 1.
+TITLE: Hungarian K-Culture Festival Draws 20,000 Attendees - 조선일보
+SUMMARY: Hungarian K-Culture Festival Draws 20,000 Attendees - 조선일보
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMihAFBVV95cUxOTl9zdmREVDRsVEN3SlNxbjByX3NTdE9yelcxRjJ6OWNPejdqbk10UmpMNEtJTE4wTjNXVDA1U19rNllxOEp2eDFhT3BDb3hsVzhzMlFQUVdzZ2RDdEVqeXI3NGhHMkowbkV5bTZyaGh2RFhpeVM2MTFqakI0RUVMUVdZWjI?oc=5
+
+2.
 TITLE: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
 SUMMARY: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
-
-2.
-TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
-SUMMARY: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
-HOOK: KOREA 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5
 
 3.
 TITLE: Korean Universities to Launch First-Ever "Korean Wave College" Exclusively for International Students - 아시아경제
@@ -107,9 +114,9 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
 
 5.
-TITLE: Downtown Los Angeles hosting KCON, biggest K-pop fest in the world - NBC Los Angeles
-SUMMARY: Downtown Los Angeles hosting KCON, biggest K-pop fest in the world - NBC Los Angeles
+TITLE: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
+SUMMARY: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHVnWjE1NGtaVXpIcFZsYzJ4eVZrdGtBVm5MZF9HZXczSEtmZExpQzNscV9jNnpPUmdzdVo2aGNfeVhjOGhYN25td0xSM25RTXREX05PcVhpc1h0bXgtSmtzYUhFM2FIa2pSdDRhS0tLWTRqVXpNak5UY0h0NXJ2Smc4NHZKbDdmZ21uSUtZSWRQMEFtOFM4cHd0b1pLUm5vRExMM1U2TWHSAbABQVVfeXFMT3dhMW1ObEk3OFlpZW82VzJvVU5JUlhsZ3dlUE9rSlVScExzb1FSQUUwTUM5dEU1U1pKUmpIbzhVMENyQ1ktWldRX0VDdlI2cUg3OXJ5RkdKM3FhX1RFQU8yQXkyWElPTWpFYUZBTGl5OE0xekFiOVlkbHlrcGQzd2NmTWpFN0xNdTVtYkx4RTNzckx0X09ZMmpuUDJwdVN4X2VTZVRsS1U3NXQ4bjJSS0g?oc=5
+LINK: https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcHc5Z2ZCUERfY1NzbUlzSGlpNTJ1bUdfR3NnVU5PVVZFU01iOGtmSVBWR01scWxEY1ZOOEhxSi0tQzl6VUNBVURpb3FaN1dtY25YemZCVDk0SFVTcE41bGFMbnNRNkg1YkNTTjFCVXd2NTdqYnhmNWo5VQ?oc=5
 
