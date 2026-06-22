@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-06-18]
+[K-TREND AI INPUT - 2026-06-22]
 
 
 === KPOP ===
@@ -55,49 +55,49 @@ LINK: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNm42ZG9wdnBIX21KTm41Z
 === KFOOD ===
 
 1.
+TITLE: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
+SUMMARY: South Korea boosts K-Food security amid rise in fake products - FoodNavigator-Asia.com
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnEzcXFibHhCY3J0clYwM3NFUU1hdmhTcXAwdkdrOUUzaTlxeHhLOUZWNGdXSkZpUk11dVRIMDZaVEJobHJRcTVUdjdDSloyUWx3QndULXJmdzZwbktpVFh1MnZETWJzS2prWHdiSTB2M3dEc2dwcEJyNVJYbVdRYmNQVDhhZlpEWU9TSHlES24tWElzWEszdDJ3cDlPcVJaRGZmaC1ES3FtUzYwRkgtY2ZEQjk5NVk?oc=5
+
+2.
 TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
 SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHFrOXdHd3dxOXNJalJtc2U0T3VkTW8xUG5PeDd1VDhwc2w4cEJnM2lQa3FieThmUWRLa004WEFqY3VKZTFPT3k2M0F5cmp1cUVXOU1fYVI5UVNUQTJz?oc=5
 
-2.
+3.
 TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTS1rWlFfbWdfY05iYzlReThEaGtxd2ZmcG9hMk1BR3IxMHJ0LW53WHBLeEs1c2dfQmFfT0lyd2FxU09MRzNqdEZjWmlKNHl4THV4R0J4WG02ZUdMTDBXTy16NXBNanhlZ29GRzktVjVIZ2JDYjlaaEtXbXl1djFuS3ltNUk1SXM2TmVWYXAtZFlqSTVMLV9MZTFjaW5CN0ZlektYUzdZcTFDbE5yN1NENVNhVV9lWHp1MGRvdW5UNm5oVEtv?oc=5
 
-3.
+4.
 TITLE: Innovative Ads From South Korea Feature K-Pop, K-Food and Car Parts as High Fashion - Muse by Clio
 SUMMARY: Innovative Ads From South Korea Feature K-Pop, K-Food and Car Parts as High Fashion - Muse by Clio
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVdWNFBzVHMtWk5iVGw4LWYyOXlpQldqcUV0eW5HLUR3ZkNpQkNkd1dvSUNReUhaRzVuWmljZkFoUERsZ0k3YVR1TE90OG5DVTRkSm9Mc3U5Ty12b1c1VmltSlRWZEdKWDBSakZEdjJDNGd5VllMNTVjV2pfajRTN1k5ZU1TN1NEY1RkRU9XWEh2dUlJZnVmcVoyVlBfcnkwbzgwek41M01JblRFbHZLU0RKWERvdFZpT2c?oc=5
 
-4.
-TITLE: Daniel Dae Kim explores booming South Korean pop, film, cosmetics and food influences for CNN series - WHEC.com
-SUMMARY: Daniel Dae Kim explores booming South Korean pop, film, cosmetics and food influences for CNN series - WHEC.com
+5.
+TITLE: K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald
+SUMMARY: K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMizAFBVV95cUxNVGpKY0haSm5HanNFaTdGR2RYTHl0X0hPd1RBRHlKRUZxYmZfMHVkUjdkY0lZdF94NU1teEREbjNtNDVacmtzVnFval8xaUJ4T085LU03aThiR1oyc2Q0SldvRVlWZFFEUmEzcFRhVE1IeDFjdmwzTTEtZllQdEswdTNVeGlIWVo4ZzBSdGtDRVBIdnhsQmQ1SDA1OEwtSzJ3V0lWbjRHWGROWmxtUVhtb0hJbnBzdW80eUlJMlZXdk42QzdSWHlzWHg2a3U?oc=5
-
-5.
-TITLE: Buldak ramen challenge viral
-SUMMARY: Spicy Korean ramen trend exploding globally
-HOOK: KFOOD 🔥 viral
-SOURCE: fallback
-LINK: https://youtube.com
+LINK: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKa0JsYVp5S2VFSC1zN2hLSXdmRWRGQm1YaFlfMkNIaDhzQzR4c1ZtUjFKUjcxMWFSVnJGcmg4a014Y1FHTXpxM0RqY0didGMtNGh4WUJR?oc=5
 
 
 === KOREA ===
 
 1.
-TITLE: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
-SUMMARY: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM
+TITLE: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
+SUMMARY: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGNKaFM3TFJEV241anM5ekQ2Y3B2N3REWkxJU0MyNVNBcUpOd3JUVTNDYTVXMDQ1X3pJemlNMVF4dm1VbGthWHN0a1I2RkFXTTVydEdmQlVtQU5hU1V6T0NRdVlwbHdfMDBnakdTejd1RzNhWjhwQm02UkNibHJxcTFqODh3WFJnQ1FIWlc4R0ZGNmlfTGh3clJPbWQzUmFLYUlxLVFMdzhZeUdYSXRSOTlNUkpMcE9VNjY5X280dnJSRjd4X3VPSTJLRDBibWNsX0HSAdIBQVVfeXFMTWpvUXBNdDJyUHd1WFhQZFB4RmF5LWF3LXZXdGpSWkw5T3o5VlcycHJrLVRRLXdFbmZwSXZRd1VaT285UnA4aTZXNUtNZ3llSG9XTmlnUHFPRHhTQUUxdlNBaEs0X3hvVE82Z2lNQzl4ZUpHOWVKenN6U0NEX3RmSk5zdGJncjRKVjg0VVY4Ujc1QWN2QU5pWmY5aGRuUXVySldDdnBfQ0JDOXVHeERFeTBsenU1LWlOa1ZHLXZtcEhIRUlPY2tiUGRmMU1Gb3JuMGRn?oc=5
 
 2.
 TITLE: Korea House Showcases Hanbok, K-Pop in Milan - 조선일보
@@ -121,9 +121,9 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
 
 5.
-TITLE: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
-SUMMARY: Koreatown as a “K-Lifestyle” Experience Space - vocal.media
+TITLE: How South Korea Became a Cultural Powerhouse, and What’s Next - The New York Times
+SUMMARY: How South Korea Became a Cultural Powerhouse, and What’s Next - The New York Times
 HOOK: KOREA 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcHc5Z2ZCUERfY1NzbUlzSGlpNTJ1bUdfR3NnVU5PVVZFU01iOGtmSVBWR01scWxEY1ZOOEhxSi0tQzl6VUNBVURpb3FaN1dtY25YemZCVDk0SFVTcE41bGFMbnNRNkg1YkNTTjFCVXd2NTdqYnhmNWo5VQ?oc=5
+LINK: https://news.google.com/rss/articles/CBMigAFBVV95cUxPaE5YS0F4YkEtSkptMXpKUDVKWmJlOGVFVnRIN2ZFMGJST2pobDF5X2hfUVV0NURJcU9qRVZka3lteFNRY1VBUkFMTmlCVEFBQXF5WEtCVEtxWEJYRE5FMmFnVDZ4cUVsdmtYanh0Y0s5Wko0UVlsdDdmem1keDk5ag?oc=5
 
