@@ -32,11 +32,11 @@
     "source": "news"
   },
   {
-    "title": "K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보",
-    "summary": "K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보",
-    "hook": "KOREA 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2g5ckZtcUhMUFY0OENEdmxEQk9qMGhKYmtKckxNSzgyX2hJTDVsdVh3ajlSd251LTRXRE5QWXpyelpBb05VMnh6X0lVY01jbjZfMUhNVHcyTjdYM3J2d1pVTnNRT2dpR01RNDNjOXdYcXZSQ0IybjM0aVR6QldGZHdBZkNoVmE0aVB2bA?oc=5",
-    "category": "KOREA",
+    "title": "K-food and K-beauty drive Europe push as Korea Expo Paris 2026 opens - CHOSUNBIZ - Chosunbiz",
+    "summary": "K-food and K-beauty drive Europe push as Korea Expo Paris 2026 opens - CHOSUNBIZ - Chosunbiz",
+    "hook": "KFOOD 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3lXOHB4UWpVc0VZTGpQdU9VUDdtd0V1MnFyZFBlOUVDanlqWEFjTVdLZlVFSktDMjVKbTlnOFRVRFR3djVDNmxkc0Ewb0laTURSQ3dUVXRKd0gzSXNBQVpnUmlfMHRCWVhMQU9xUzZSTGZ4RVhaUHJzLXdFc01QZXd30gGWAUFVX3lxTFBFTUtKN3R0bUZwY3hnejBXRVJoSzcwTHJBbGRIUktSWTl4aVBCTEFqTHE0QWhqWTlNUjR4TW1VY1pMaXQwOGh0R01yX2dmamV6dUg5RGIzdzdGUHJuNGJENzlPQ2U5Z2pzSzF6dGQ0ZFlnTmcwLUpOQTZSSjFubmt0V3dqc0ZQTVRkSnVObUpFVmZ3a05Qdw?oc=5",
+    "category": "KFOOD",
     "source": "news"
   },
   {
@@ -44,6 +44,14 @@
     "summary": "\"I Want Korean Nationality\"?K-Beauty Dominates Don Quijote in Japan amid Soaring Popularity [K-Wave 3.0] ⑦ - 아시아경제",
     "hook": "KBEAUTY 뉴스",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUExHUXd0a3NPY0dFdW1MN01RYTJJTVVjcGZtTS04RlFqa1ZkRUQ2SHlGaUx0Z1VQYWJzdXBkek8xaWdZeGxIVnpwZUhIN3VVaUFxUHRlNnNfQnhvSXhiZnZDQXk?oc=5",
+    "category": "KBEAUTY",
+    "source": "news"
+  },
+  {
+    "title": "Top South Korean stylists give New Yorkers K-beauty makeovers in reality show Perfect Glow - The Straits Times",
+    "summary": "Top South Korean stylists give New Yorkers K-beauty makeovers in reality show Perfect Glow - The Straits Times",
+    "hook": "KBEAUTY 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNm42ZG9wdnBIX21KTm41ZjdqWVJ5S250eGtybWhfMjRWRVE0ZXJmNDNDbnF6akRCVkVYMVhuN193UEk1c20zVU40X25qeW92Nm5HQjBDQ1lYTkhFWXB1Z3UwN1F5OE5FdS1nTlo0YkluSENSVGZ1OEFMU3JTYzBDcGNvWm1VSjlPRXhQRkhMaTBDTE1Zb2gyUF9VX290dkVNSVg1cFQwX3NlNExDMDdSUDdDMkhXbnNROFdxWVpKdF9DQWhkbG9YMGZZVDB2NUJKanRaTQ?oc=5",
     "category": "KBEAUTY",
     "source": "news"
   },
@@ -64,14 +72,6 @@
     "source": "news"
   },
   {
-    "title": "K-beauty, K-food exports to US jolted as 15% tariffs go into effect - KED Global",
-    "summary": "K-beauty, K-food exports to US jolted as 15% tariffs go into effect - KED Global",
-    "hook": "KFOOD 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EZWtSMVVIeUFJUE04dXZwTTVFRERibUJrSzlwNTQ2VUVvQjZvQ3BFMEVxekw2RFVVbF9SdWlTdDRwS1BrakhBSF9sTUFnYzZiTlRJS01DTTZ2cjFBYUNmenFfX1JMR2hBQmtRdFdUYVBXU2VJQWc?oc=5",
-    "category": "KFOOD",
-    "source": "news"
-  },
-  {
     "title": "This weekend, Brussels turns into a mini-Seoul with an immersive festival of K-Food, K-Beauty and K-Culture. - Bruxelles Secrète",
     "summary": "This weekend, Brussels turns into a mini-Seoul with an immersive festival of K-Food, K-Beauty and K-Culture. - Bruxelles Secrète",
     "hook": "KFOOD 뉴스",
@@ -80,18 +80,18 @@
     "source": "news"
   },
   {
-    "title": "K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald",
-    "summary": "K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald",
+    "title": "K-beauty, K-food exports to US jolted as 15% tariffs go into effect - KED Global",
+    "summary": "K-beauty, K-food exports to US jolted as 15% tariffs go into effect - KED Global",
     "hook": "KFOOD 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKa0JsYVp5S2VFSC1zN2hLSXdmRWRGQm1YaFlfMkNIaDhzQzR4c1ZtUjFKUjcxMWFSVnJGcmg4a014Y1FHTXpxM0RqY0didGMtNGh4WUJR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EZWtSMVVIeUFJUE04dXZwTTVFRERibUJrSzlwNTQ2VUVvQjZvQ3BFMEVxekw2RFVVbF9SdWlTdDRwS1BrakhBSF9sTUFnYzZiTlRJS01DTTZ2cjFBYUNmenFfX1JMR2hBQmtRdFdUYVBXU2VJQWc?oc=5",
     "category": "KFOOD",
     "source": "news"
   },
   {
-    "title": "K-food and K-beauty drive Europe push as Korea Expo Paris 2026 opens - CHOSUNBIZ - Chosunbiz",
-    "summary": "K-food and K-beauty drive Europe push as Korea Expo Paris 2026 opens - CHOSUNBIZ - Chosunbiz",
+    "title": "K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald",
+    "summary": "K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald",
     "hook": "KFOOD 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3lXOHB4UWpVc0VZTGpQdU9VUDdtd0V1MnFyZFBlOUVDanlqWEFjTVdLZlVFSktDMjVKbTlnOFRVRFR3djVDNmxkc0Ewb0laTURSQ3dUVXRKd0gzSXNBQVpnUmlfMHRCWVhMQU9xUzZSTGZ4RVhaUHJzLXdFc01QZXd30gGWAUFVX3lxTFBFTUtKN3R0bUZwY3hnejBXRVJoSzcwTHJBbGRIUktSWTl4aVBCTEFqTHE0QWhqWTlNUjR4TW1VY1pMaXQwOGh0R01yX2dmamV6dUg5RGIzdzdGUHJuNGJENzlPQ2U5Z2pzSzF6dGQ0ZFlnTmcwLUpOQTZSSjFubmt0V3dqc0ZQTVRkSnVObUpFVmZ3a05Qdw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKa0JsYVp5S2VFSC1zN2hLSXdmRWRGQm1YaFlfMkNIaDhzQzR4c1ZtUjFKUjcxMWFSVnJGcmg4a014Y1FHTXpxM0RqY0didGMtNGh4WUJR?oc=5",
     "category": "KFOOD",
     "source": "news"
   },
@@ -112,14 +112,6 @@
     "source": "news"
   },
   {
-    "title": "Korean Universities to Launch First-Ever \"Korean Wave College\" Exclusively for International Students - 아시아경제",
-    "summary": "Korean Universities to Launch First-Ever \"Korean Wave College\" Exclusively for International Students - 아시아경제",
-    "hook": "KOREA 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnQkpGQVU4aGo2Rk9fdkNCYlNKRHJ0dkdnXzlycXl3dUdoV1ktU3k5SmJUSTJET1IwNENxOVExaUFaY1RvNHF1RE8wazVTWk5la0tDc1puVk5QQ2xwbXYwZWlMRGw?oc=5",
-    "category": "KOREA",
-    "source": "news"
-  },
-  {
     "title": "Korean Startup Festival in New York Aims to Build ‘Korean CES’ - 조선일보",
     "summary": "Korean Startup Festival in New York Aims to Build ‘Korean CES’ - 조선일보",
     "hook": "KOREA 뉴스",
@@ -128,10 +120,10 @@
     "source": "news"
   },
   {
-    "title": "[BEHIND TALK] The Survival of K-Content is Key to Revitalizing the Korean Economy! - CJ ENM",
-    "summary": "[BEHIND TALK] The Survival of K-Content is Key to Revitalizing the Korean Economy! - CJ ENM",
+    "title": "Korean Universities to Launch First-Ever \"Korean Wave College\" Exclusively for International Students - 아시아경제",
+    "summary": "Korean Universities to Launch First-Ever \"Korean Wave College\" Exclusively for International Students - 아시아경제",
     "hook": "KOREA 뉴스",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0JSdFUxcnFqdkVPVk5FMkFBWnNVbjRWdVYxRVNNbmwtU2RLbXNnUk51Vll2M1NuTEJra2hlUlBwWmpuR0NSdjVPV1VrWEUzOGFwaHJ1ZlVLT3ZZWDU4Y294SE9QNWV3RzdtWHBBV0hYaFpiMkQ3eXFXOFR1WU9tMEtWUTNySTFlSGRvV0RwNVZ5ak4waktSZXV2c2R2a3dtZHV2RUZEYS02X2pLQmc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnQkpGQVU4aGo2Rk9fdkNCYlNKRHJ0dkdnXzlycXl3dUdoV1ktU3k5SmJUSTJET1IwNENxOVExaUFaY1RvNHF1RE8wazVTWk5la0tDc1puVk5QQ2xwbXYwZWlMRGw?oc=5",
     "category": "KOREA",
     "source": "news"
   },
@@ -140,6 +132,14 @@
     "summary": "Korea House Showcases Hanbok, K-Pop in Milan - 조선일보",
     "hook": "KOREA 뉴스",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjNfSGxERExDaUZxU0ctcGZ6QXQwZFpmc3czeXM4Q1ZwQnpZS09fcnlTWFM1YTVUVzlOdzdHTWtZS2F2Vm1nQ1V6LXJCYnd4bW4zQ2pkMm4zOWtPb2kwOUlhOWFrUTVJVm85RVVYcC1NY0E3dkIxRV91NVJ1cDBEekY4MF85QQ?oc=5",
+    "category": "KOREA",
+    "source": "news"
+  },
+  {
+    "title": "[BEHIND TALK] The Survival of K-Content is Key to Revitalizing the Korean Economy! - CJ ENM",
+    "summary": "[BEHIND TALK] The Survival of K-Content is Key to Revitalizing the Korean Economy! - CJ ENM",
+    "hook": "KOREA 뉴스",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0JSdFUxcnFqdkVPVk5FMkFBWnNVbjRWdVYxRVNNbmwtU2RLbXNnUk51Vll2M1NuTEJra2hlUlBwWmpuR0NSdjVPV1VrWEUzOGFwaHJ1ZlVLT3ZZWDU4Y294SE9QNWV3RzdtWHBBV0hYaFpiMkQ3eXFXOFR1WU9tMEtWUTNySTFlSGRvV0RwNVZ5ak4waktSZXV2c2R2a3dtZHV2RUZEYS02X2pLQmc?oc=5",
     "category": "KOREA",
     "source": "news"
   },
