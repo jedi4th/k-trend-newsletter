@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-07-30]
+[K-TREND AI INPUT - 2026-08-03]
 
 
 === KPOP ===
@@ -30,36 +30,43 @@ HOOK: KBEAUTY 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUExHUXd0a3NPY0dFdW1MN01RYTJJTVVjcGZtTS04RlFqa1ZkRUQ2SHlGaUx0Z1VQYWJzdXBkek8xaWdZeGxIVnpwZUhIN3VVaUFxUHRlNnNfQnhvSXhiZnZDQXk?oc=5
 
+4.
+TITLE: Top South Korean stylists give New Yorkers K-beauty makeovers in reality show Perfect Glow - straitstimes.com
+SUMMARY: Top South Korean stylists give New Yorkers K-beauty makeovers in reality show Perfect Glow - straitstimes.com
+HOOK: KBEAUTY 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNm42ZG9wdnBIX21KTm41ZjdqWVJ5S250eGtybWhfMjRWRVE0ZXJmNDNDbnF6akRCVkVYMVhuN193UEk1c20zVU40X25qeW92Nm5HQjBDQ1lYTkhFWXB1Z3UwN1F5OE5FdS1nTlo0YkluSENSVGZ1OEFMU3JTYzBDcGNvWm1VSjlPRXhQRkhMaTBDTE1Zb2gyUF9VX290dkVNSVg1cFQwX3NlNExDMDdSUDdDMkhXbnNROFdxWVpKdF9DQWhkbG9YMGZZVDB2NUJKanRaTQ?oc=5
+
 
 === KFOOD ===
 
 1.
+TITLE: KCON Japan 2026 to showcase K-beauty, K-food, and K-content innovations - Korea JoongAng Daily
+SUMMARY: KCON Japan 2026 to showcase K-beauty, K-food, and K-content innovations - Korea JoongAng Daily
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzJ5U19oM2laWjc2eExXWW83d1d1SWo2RjdKZlNfRlgxVW9wMkVvZ3VaNy1UWGVGcjlGSVVkdWRtdDFic25KS2loWnZhT0hrby1xZEJSSDlXdjZNM2ppMnJvc1lISUpBVTNZVEtTU2dpeUstT1ppM1MwbDZZMF9hNHozS29mbjlZMGlZYlRzSFJoQ0haYks2VjRzZV96WFJwT0xkSlpDcFZ2NGlWTGh1M01CNXhETjNpblV6aDZoRmd5YzIwQ2c?oc=5
+
+2.
 TITLE: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 SUMMARY: Experience the Vibrant Wave of Korean Beauty, Food, and Culture in 2025 - Business Wire
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTS1rWlFfbWdfY05iYzlReThEaGtxd2ZmcG9hMk1BR3IxMHJ0LW53WHBLeEs1c2dfQmFfT0lyd2FxU09MRzNqdEZjWmlKNHl4THV4R0J4WG02ZUdMTDBXTy16NXBNanhlZ29GRzktVjVIZ2JDYjlaaEtXbXl1djFuS3ltNUk1SXM2TmVWYXAtZFlqSTVMLV9MZTFjaW5CN0ZlektYUzdZcTFDbE5yN1NENVNhVV9lWHp1MGRvdW5UNm5oVEtv?oc=5
 
-2.
+3.
 TITLE: Korea Travel Fair 2026 is coming to Singapore with travel deals, K-food, K-beauty, and a celebrity appearance - Time Out Worldwide
 SUMMARY: Korea Travel Fair 2026 is coming to Singapore with travel deals, K-food, K-beauty, and a celebrity appearance - Time Out Worldwide
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdnBYRzA2c1dMOWtzVHVsMm5LRjZvNzg2S3lxQmxHa2VEODgyQmF5dnllWWNvc1c3dTdpUm5LZEpsSnlVN09Ddk9UMHJINDY2MWZHWUE0S2pLRkFTdEMzN2FGbVoxLVIzMDFldjdnUTN5U3ZWWXdnRllPTnhLbkpSeFphYXRNLXBLNXQtdGxqQjFoVDdwRUVULXdBNmhiUGZwRzFyRFlEM0tBSlFfYS0xOE0xTVVpbXZrU0M2eUdsWkIySG5CRE43YzBpYWRJeGRSR0xycTRJWFRrU3NlNjhSeEJWR2dIQVE?oc=5
 
-3.
+4.
 TITLE: This weekend, Brussels turns into a mini-Seoul with an immersive festival of K-Food, K-Beauty and K-Culture. - Bruxelles Secrète
 SUMMARY: This weekend, Brussels turns into a mini-Seoul with an immersive festival of K-Food, K-Beauty and K-Culture. - Bruxelles Secrète
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMickFVX3lxTE02UVJEYWV3RW15REEwSmFFem9wNnJlSm5oeW5MRGNHbHc3VDdaZW5xU21PSHhUeW5peTJPeUJlY0JBMUoxamUzZVVkN0hMME00R2Fmc2k1TUdTT2drMnF5TVVCQlRKZFhxLWY0VEFWLXpLZw?oc=5
-
-4.
-TITLE: K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald
-SUMMARY: K-pop, K-food, K-beauty, K-content top foreigner interests: survey - The Korea Herald
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKa0JsYVp5S2VFSC1zN2hLSXdmRWRGQm1YaFlfMkNIaDhzQzR4c1ZtUjFKUjcxMWFSVnJGcmg4a014Y1FHTXpxM0RqY0didGMtNGh4WUJR?oc=5
 
 5.
 TITLE: K-beauty, K-food exports to US jolted as 15% tariffs go into effect - KED Global
@@ -86,23 +93,23 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
 
 3.
-TITLE: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - chosun.com
-SUMMARY: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - chosun.com
+TITLE: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
+SUMMARY: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2g5ckZtcUhMUFY0OENEdmxEQk9qMGhKYmtKckxNSzgyX2hJTDVsdVh3ajlSd251LTRXRE5QWXpyelpBb05VMnh6X0lVY01jbjZfMUhNVHcyTjdYM3J2d1pVTnNRT2dpR01RNDNjOXdYcXZSQ0IybjM0aVR6QldGZHdBZkNoVmE0aVB2bA?oc=5
 
 4.
+TITLE: Ministry redefines 'K-culture,' adds 100 trillion won to sector's target market size - Korea JoongAng Daily
+SUMMARY: Ministry redefines 'K-culture,' adds 100 trillion won to sector's target market size - Korea JoongAng Daily
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHBkRktzdkRLSS1mVUtpM095ODhram5Qc3kwbXdWSU1nRVFyR1dMN1BBdXNMUWRIZ2FMSTFCbE42SnRsTkxPUFpac25JTEJ1RHpvclA2Z0gwSkhpZVl3SFRMbXQzRzR5ZFBlY0ZCSWNBR2xXaGNHalV2WExxeWsyUXdubG1UUVZ5bDh2TWxOeC1oVHBmNk9uZ0pkWjJ4eVNHRXBtakV0NXhkblRIbUtIU1VtcjhHQzNueDA0dWdNN04ybjJqcE9KSzFLX0ZlVE0?oc=5
+
+5.
 TITLE: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
 SUMMARY: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
-
-5.
-TITLE: SILICON2: DELIVERING K-TRENDS IN REAL TIME - The Worldfolio
-SUMMARY: SILICON2: DELIVERING K-TRENDS IN REAL TIME - The Worldfolio
-HOOK: KOREA 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUdfN3ptMGItQ1BuWkVSak9HalBaaGJlUmRaci1TQ1Awd2lKYkoxQk40cE9KUThKSWdLb3NSTWJsSWhEVU4ycTZfOWl2QjgyWU1MaVdYSWlYLTREa2hvejhmTXRUaW9JM2dHSmRBZS16ZEdWYXlkUGZhLUx0S2JfS2xQd3d0QTNTWmpGYjhKWjM?oc=5
 
