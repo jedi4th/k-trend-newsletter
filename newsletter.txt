@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-08-17]
+[K-TREND AI INPUT - 2026-08-20]
 
 
 === KPOP ===
@@ -17,13 +17,6 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMid0FVX3lxTE1neTlBWWJidS1UclZLVW5sUkN6dzdjYW9jd3laUWFQbXNDbjJXcWxEOXZjcEFkSHlRaXRFQU9BNjhteTJ1YTNqaHRaLUVjS0lDOFJLbVpUc19SN0NOZW85NlRmT3RscXFzUy02ZTJTbERuYnQwOWdZ?oc=5
 
 2.
-TITLE: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - kedglobal.com
-SUMMARY: From K-beauty to K-dentistry, Korea’s next wave has a dazzling smile - kedglobal.com
-HOOK: KBEAUTY 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMic0FVX3lxTE9xbjRQSjhqM3oxakRFNVJXelBuVjRZb1ZqYm9FWXZCb25fOUQ4QmpYb1lURm9QekJRNVZZZGhXTUluRXRYWjFQNTBQWHNEYlMzZUZVc3dMYUxKa0JMUml3Ym5qS3lvWm9KeTd2Yi1WNE5qTTg?oc=5
-
-3.
 TITLE: "I Want Korean Nationality"?K-Beauty Dominates Don Quijote in Japan amid Soaring Popularity [K-Wave 3.0] ⑦ - 아시아경제
 SUMMARY: "I Want Korean Nationality"?K-Beauty Dominates Don Quijote in Japan amid Soaring Popularity [K-Wave 3.0] ⑦ - 아시아경제
 HOOK: KBEAUTY 뉴스
@@ -34,75 +27,75 @@ LINK: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUExHUXd0a3NPY0dFdW1MN
 === KFOOD ===
 
 1.
-TITLE: Korean Wave Boosts K-Food and K-Beauty Exports to Vietnam, Achieving $33 Million in Deals - ajupress.com
-SUMMARY: Korean Wave Boosts K-Food and K-Beauty Exports to Vietnam, Achieving $33 Million in Deals - ajupress.com
+TITLE: Korea in Buenos Aires: a 3-day festival with free admission that transforms this Buenos Aires shopping mall with K-Pop, K-Food, and K-Beauty - Buenos Aires Secreta
+SUMMARY: Korea in Buenos Aires: a 3-day festival with free admission that transforms this Buenos Aires shopping mall with K-Pop, K-Food, and K-Beauty - Buenos Aires Secreta
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS21jalZjdjhhc28xZ2NkOUFaZ3BuY09UQXlIaWx4bHNTZERNRE5sQmFvY3lVMlp1TTJTM3VNTDZGclFLZ3doQTU5TWNSZjZ5ZEZhUk5McUhjZkRKTGt0SXFFMkdwczlhTzVBdWM3LVZTSFlFZFgyelJJMXJGVUdGcFEzcmRGaVFqWkgxaWpoYnBVeWFsVkhncnZWQmYtcVpCMlQyaHBZNVQ0VHhwOHd2T0lqZFd2VnExRWZyX0QwNDdWRmtwbWZfU1ZNbThfbjd1Q3R1MDJtMmMzdDVqNVY3R2F4Ylo5U3dWRk9EeWZWTUl3N1lZT0dJS3kwWQ?oc=5
+
+2.
+TITLE: Gen Z, Alpha in U.S. Turn K-Pop Fandom Into K-Food and Beauty Habits - Seoul Economic Daily
+SUMMARY: Gen Z, Alpha in U.S. Turn K-Pop Fandom Into K-Food and Beauty Habits - Seoul Economic Daily
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTFVTTVIY2lCTWE2bklIQ1QyWTBCSUR2cFQtWjFHdklmbUhrQUh3OG5BemE0VWFhbEc5M0tqaGJVLU03UkxyM2NWSmNseHgtXzBxTXBKX3Y4X2ZTWklZbWk1YWxTU1NyVjMxTTc3TjF2c3R4cVYwZWNmT3RFOGJFREZnaEh1ZUE3d0NRZkpMNEN5cTd6Y0h6TFZIVmJjNURLeUE?oc=5
+
+3.
+TITLE: Korean Wave Boosts K-Food and K-Beauty Exports to Vietnam, Achieving $33 Million in Deals - Aju Press
+SUMMARY: Korean Wave Boosts K-Food and K-Beauty Exports to Vietnam, Achieving $33 Million in Deals - Aju Press
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ma1BDb0lPanlhc0FQY2xIbjBzYjlhWjJlVldVbFZmSWFCZWloMlRJUGI0aHB6TE5iQkNjNlFhR2ZOTzhZYkhWV254MWVqNjZqUDdTQmZDa1FOS3PSAVdBVV95cUxNczZsV1BkRUhLYXlraC1OSEVLRWExUGZLR2VER1VTVVNpd0xDb3VfN04zazZhOURuRFdoeDB2a1BHUmVqUlVPb2NodUFBWlh0ZTk2YmE3bG8?oc=5
 
-2.
+4.
 TITLE: KCON Japan 2026 to showcase K-beauty, K-food, and K-content innovations - Korea JoongAng Daily
 SUMMARY: KCON Japan 2026 to showcase K-beauty, K-food, and K-content innovations - Korea JoongAng Daily
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzJ5U19oM2laWjc2eExXWW83d1d1SWo2RjdKZlNfRlgxVW9wMkVvZ3VaNy1UWGVGcjlGSVVkdWRtdDFic25KS2loWnZhT0hrby1xZEJSSDlXdjZNM2ppMnJvc1lISUpBVTNZVEtTU2dpeUstT1ppM1MwbDZZMF9hNHozS29mbjlZMGlZYlRzSFJoQ0haYks2VjRzZV96WFJwT0xkSlpDcFZ2NGlWTGh1M01CNXhETjNpblV6aDZoRmd5YzIwQ2c?oc=5
 
-3.
-TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - kedglobal.com
-SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - kedglobal.com
+5.
+TITLE: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
+SUMMARY: K-beauty US exports end upward streak in August on tariffs; K-food also drop - KED Global
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tdHFrOXdHd3dxOXNJalJtc2U0T3VkTW8xUG5PeDd1VDhwc2w4cEJnM2lQa3FieThmUWRLa004WEFqY3VKZTFPT3k2M0F5cmp1cUVXOU1fYVI5UVNUQTJz?oc=5
-
-4.
-TITLE: Daniel Dae Kim explores booming South Korean pop, film, cosmetics and food influences for CNN series - The Washington Post
-SUMMARY: Daniel Dae Kim explores booming South Korean pop, film, cosmetics and food influences for CNN series - The Washington Post
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiywFBVV95cUxNTDBWWGpTTUJsdVE4Vmk4aW1nZkdGeEFnVXRfeUF3UjNZRDJPU3o3WmRTd3NWMElEWWxOaVVvM29aQVIyYmMtcVBRdmZOa0hUQWJuY0p3Um53TDVxVmRxVjdZQ0pLM2lIN21LOGxwVVd4ZmROUFhXeHJySGxFMDUyV1RyV3lzRXZTYjJuN1lEcU5wM0Y3TkNIMk1fNFdsRkQyQTJMV0Z5TEJTRTg5UUtMRVJWNWpNM0xTak13MUpGSFBLZmlsc1dybXpKSQ?oc=5
-
-5.
-TITLE: Korea Travel Fair 2026 is coming to Singapore with travel deals, K-food, K-beauty, and a celebrity appearance - Time Out Worldwide
-SUMMARY: Korea Travel Fair 2026 is coming to Singapore with travel deals, K-food, K-beauty, and a celebrity appearance - Time Out Worldwide
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdnBYRzA2c1dMOWtzVHVsMm5LRjZvNzg2S3lxQmxHa2VEODgyQmF5dnllWWNvc1c3dTdpUm5LZEpsSnlVN09Ddk9UMHJINDY2MWZHWUE0S2pLRkFTdEMzN2FGbVoxLVIzMDFldjdnUTN5U3ZWWXdnRllPTnhLbkpSeFphYXRNLXBLNXQtdGxqQjFoVDdwRUVULXdBNmhiUGZwRzFyRFlEM0tBSlFfYS0xOE0xTVVpbXZrU0M2eUdsWkIySG5CRE43YzBpYWRJeGRSR0xycTRJWFRrU3NlNjhSeEJWR2dIQVE?oc=5
 
 
 === KOREA ===
 
 1.
+TITLE: I came early in the morning to go to Olive Young Festa. As I wait for my favorite singer's performa.. - 매일경제
+SUMMARY: I came early in the morning to go to Olive Young Festa. As I wait for my favorite singer's performa.. - 매일경제
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DS083ZXlOVHZYN0FHbmtScEJ0R2hCS0VRczVTang4YmRVcFkxM3loN05yVThfbV9pU2Z2RE1XY1ktLWxxaTA0MFEwRmhrcUQ1WUtv?oc=5
+
+2.
 TITLE: Chinese e-commerce platform JD.com to directly import Korean products - Korea JoongAng Daily
 SUMMARY: Chinese e-commerce platform JD.com to directly import Korean products - Korea JoongAng Daily
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGtHNGtiTDA3emJCRF8tT2JyTVFpZ0p4OUJUWEZFelY5bjVFb2F4NHp5N0pLbTBERThlZVFXaWhpLTR1NW9hdEo3akNnb0JOaHVtWE5ZaDFxaHpGM0ZmZmY2WHVPSk9IaXVzYXVTNmlOOWJ3MjVhZ28zTk04TDJlX1ZnejlvTXFYYmNiQmctdTRITVJVa0V1ZU9vbU9McVg1MXNoWHZoaEpFeWdJcWlwUlVDdzZ3Wm9QWktOaA?oc=5
 
-2.
-TITLE: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - cjenm.com
-SUMMARY: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - cjenm.com
+3.
+TITLE: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
+SUMMARY: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
+HOOK: KOREA 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGNKaFM3TFJEV241anM5ekQ2Y3B2N3REWkxJU0MyNVNBcUpOd3JUVTNDYTVXMDQ1X3pJemlNMVF4dm1VbGthWHN0a1I2RkFXTTVydEdmQlVtQU5hU1V6T0NRdVlwbHdfMDBnakdTejd1RzNhWjhwQm02UkNibHJxcTFqODh3WFJnQ1FIWlc4R0ZGNmlfTGh3clJPbWQzUmFLYUlxLVFMdzhZeUdYSXRSOTlNUkpMcE9VNjY5X280dnJSRjd4X3VPSTJLRDBibWNsX0HSAdIBQVVfeXFMTWpvUXBNdDJyUHd1WFhQZFB4RmF5LWF3LXZXdGpSWkw5T3o5VlcycHJrLVRRLXdFbmZwSXZRd1VaT285UnA4aTZXNUtNZ3llSG9XTmlnUHFPRHhTQUUxdlNBaEs0X3hvVE82Z2lNQzl4ZUpHOWVKenN6U0NEX3RmSk5zdGJncjRKVjg0VVY4Ujc1QWN2QU5pWmY5aGRuUXVySldDdnBfQ0JDOXVHeERFeTBsenU1LWlOa1ZHLXZtcEhIRUlPY2tiUGRmMU1Gb3JuMGRn?oc=5
+
+4.
+TITLE: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM 엔터테인먼트부문
+SUMMARY: KCON LA 2026 To Bring Diverse K-Lifestyle Experiences to Crypto.Com Arena, Los Angeles Convention Center, Aug 14-16 - CJ ENM 엔터테인먼트부문
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPckk0T2pDQnFKeTlZSzFDWERnN0pLRGdyTVZ0eGtoNXZWdXhoVDFBVm5SNDVZMXJRemxlUXVTNW9qRHRfcGpWbkVEZm5mQWtRekxzS1k3SnZXRFg4WERiYi14bnpLYXJZZ2t4bmM5ZVlVR1djakt2Qk1ZczlldC04c0JrNlhncnNFbmlCLWRPV1BSbkRyeHBYVjFqRV96c3NrMTFONEhLQzFmX1R4bmRBWGNyWmQzdl9BVXRxdlJteGg3ZDA0bFM1ZlZ3WHRBMTdCaGVrN3hsUDJOUQ?oc=5
 
-3.
+5.
 TITLE: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
 SUMMARY: K-Culture Exports Rank Fourth, Surpass $37.9 Billion - 조선일보
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2g5ckZtcUhMUFY0OENEdmxEQk9qMGhKYmtKckxNSzgyX2hJTDVsdVh3ajlSd251LTRXRE5QWXpyelpBb05VMnh6X0lVY01jbjZfMUhNVHcyTjdYM3J2d1pVTnNRT2dpR01RNDNjOXdYcXZSQ0IybjM0aVR6QldGZHdBZkNoVmE0aVB2bA?oc=5
-
-4.
-TITLE: Enjoy ‘All Things K in One Place!' at KCON LA 2026 with Olive Young Festa - NBC Los Angeles
-SUMMARY: Enjoy ‘All Things K in One Place!' at KCON LA 2026 with Olive Young Festa - NBC Los Angeles
-HOOK: KOREA 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWnJrX2czcnYtQ3NvV0dYOHpKTmZfRF9yeDAtQmp4TGl4SncyLVJ6cV9uWE5aaVp4MFNWOVFrR0piR3pQZ280NGJiZlFJN28wWTF2U0Q1VDROR2syQ1JMalU3ajdsblNDRy1UNkp6N1FpQTlwZVc3RDNEcmlLRFhQSzNUanRQUnotWGwzYlVQMW52U2x4T1lrQjcxaXVCT2dibkN2aE13eHg1eEVXOGJwV1dLWTdrOF9xeG9V0gHDAUFVX3lxTE83N2F3VzlwVjRjajQzQUktY1BPSUpnbUYxbWZ6algxVGRkVU1Fby1YRXpSX2VnVTMxdHdIWWtyOEpUQUpZZWhhaGxZRDdqZ2pCcVowVUdRYklOM2pRWnZGb0s2dFNIN1JzYzRPN1NzOEVpNzJDMDdhbW94Unl0XzVGUW1Ba0ZISUpjQ3VjSUUwWmdXZkJfckc1eFhqVnFpNDVISWlXRzRUcm9hTzNjM1hWNjRaVkVpNXFJOFRVUUJtZzJZdw?oc=5
-
-5.
-TITLE: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
-SUMMARY: Mumbai to host Korea’s largest cultural showcase this weekend - The Indian Express
-HOOK: KOREA 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnVGNG1RQlBJc1h0LTd0eXlzdmlueW5abTNOOGVrN043NGt4RHhBNG41SDZQdjRMT0hGamk1THhpaHdrV3owQlRsX3hxbnBibHJsRkg1RVBSMEhEd01OelRaRFJZVGw5YWJET1BaY1otV3Y0blZySWxSUG1VUU90NTlNZ19jcUVEMkxvYU5pVWNEQmwyT3d3TjIzUld3dWJ3S3FyWTNod0ZqMkNFejBRV1NtYnVUcmdVdVHSAcABQVVfeXFMTkdKX0Z1YzZQS1NKQmRHV1lMRWhvNUxjcHFUbG1yZm5iLTBJNkpfTkpQbS1PQ3dqR3NJc2JYWXRxd2piaXZzeEN1NWF2NzZnQ0RnVWQxb2F1V2NZdXVER0ljU3F6cHBCT180NlhONWM3MTJZTDRFV3FPZlZzNDBsWWs2dzdTdW40cGNrSF9ieDAtOC1uUEFsYjUwXzZlY1dJclV1cW5MRnlUVkVJNUtQWm1FQjVwVTRtUlRvckZZT3pF?oc=5
 
