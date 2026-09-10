@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-09-07]
+[K-TREND AI INPUT - 2026-09-10]
 
 
 === KPOP ===
@@ -34,32 +34,32 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi-wFBVV95cUxPS21jalZjdjhhc28xZ2NkOUFaZ3BuY09UQXlIaWx4bHNTZERNRE5sQmFvY3lVMlp1TTJTM3VNTDZGclFLZ3doQTU5TWNSZjZ5ZEZhUk5McUhjZkRKTGt0SXFFMkdwczlhTzVBdWM3LVZTSFlFZFgyelJJMXJGVUdGcFEzcmRGaVFqWkgxaWpoYnBVeWFsVkhncnZWQmYtcVpCMlQyaHBZNVQ0VHhwOHd2T0lqZFd2VnExRWZyX0QwNDdWRmtwbWZfU1ZNbThfbjd1Q3R1MDJtMmMzdDVqNVY3R2F4Ylo5U3dWRk9EeWZWTUl3N1lZT0dJS3kwWQ?oc=5
 
 2.
+TITLE: Korean Wave Boosts K-Food and K-Beauty Exports to Vietnam, Achieving $33 Million in Deals - Aju Press
+SUMMARY: Korean Wave Boosts K-Food and K-Beauty Exports to Vietnam, Achieving $33 Million in Deals - Aju Press
+HOOK: KFOOD 뉴스
+SOURCE: news
+LINK: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ma1BDb0lPanlhc0FQY2xIbjBzYjlhWjJlVldVbFZmSWFCZWloMlRJUGI0aHB6TE5iQkNjNlFhR2ZOTzhZYkhWV254MWVqNjZqUDdTQmZDa1FOS3PSAVdBVV95cUxNczZsV1BkRUhLYXlraC1OSEVLRWExUGZLR2VER1VTVVNpd0xDb3VfN04zazZhOURuRFdoeDB2a1BHUmVqUlVPb2NodUFBWlh0ZTk2YmE3bG8?oc=5
+
+3.
 TITLE: KCON Japan 2026 to showcase K-beauty, K-food, and K-content innovations - Korea JoongAng Daily
 SUMMARY: KCON Japan 2026 to showcase K-beauty, K-food, and K-content innovations - Korea JoongAng Daily
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMixgFBVV95cUxPQzJ5U19oM2laWjc2eExXWW83d1d1SWo2RjdKZlNfRlgxVW9wMkVvZ3VaNy1UWGVGcjlGSVVkdWRtdDFic25KS2loWnZhT0hrby1xZEJSSDlXdjZNM2ppMnJvc1lISUpBVTNZVEtTU2dpeUstT1ppM1MwbDZZMF9hNHozS29mbjlZMGlZYlRzSFJoQ0haYks2VjRzZV96WFJwT0xkSlpDcFZ2NGlWTGh1M01CNXhETjNpblV6aDZoRmd5YzIwQ2c?oc=5
 
-3.
+4.
 TITLE: South Korea boosts K-Food security amid rise in fake products - FoodNavigator.com
 SUMMARY: South Korea boosts K-Food security amid rise in fake products - FoodNavigator.com
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzh1M0VmQWhnZVVOQ1Y0Tm8zY3U1WTMwWGViMDgzV04tc1cyYk03akxlQlE3aUFmS0M1RmQ4ZTFVRWlGbWRzWTBoNmlVRHFVaUpsN3BpdWFEVVUyYno4aEpwSUVPZEwzMkc4UGs4SXhPYzRaWnBLSk1nc0JVbmlhNDVJX2U0Sjl5R19hZXZWb0ZTV1duQlpKN3lmS3ZlWmJoaWR3ckhTbjVfNXRISkl6YQ?oc=5
 
-4.
+5.
 TITLE: Korea Travel Fair 2026 is coming to Singapore with travel deals, K-food, K-beauty, and a celebrity appearance - Time Out Worldwide
 SUMMARY: Korea Travel Fair 2026 is coming to Singapore with travel deals, K-food, K-beauty, and a celebrity appearance - Time Out Worldwide
 HOOK: KFOOD 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdnBYRzA2c1dMOWtzVHVsMm5LRjZvNzg2S3lxQmxHa2VEODgyQmF5dnllWWNvc1c3dTdpUm5LZEpsSnlVN09Ddk9UMHJINDY2MWZHWUE0S2pLRkFTdEMzN2FGbVoxLVIzMDFldjdnUTN5U3ZWWXdnRllPTnhLbkpSeFphYXRNLXBLNXQtdGxqQjFoVDdwRUVULXdBNmhiUGZwRzFyRFlEM0tBSlFfYS0xOE0xTVVpbXZrU0M2eUdsWkIySG5CRE43YzBpYWRJeGRSR0xycTRJWFRrU3NlNjhSeEJWR2dIQVE?oc=5
-
-5.
-TITLE: K-Food POP-UP Store "K-Food Station, Taste the Vibe" Opens in Warsaw - PR Newswire
-SUMMARY: K-Food POP-UP Store "K-Food Station, Taste the Vibe" Opens in Warsaw - PR Newswire
-HOOK: KFOOD 뉴스
-SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMixwFBVV95cUxOcTJ5a3VtN1NKUkdVazhkMFNRTU9kOF95UFpiR0F5NVBUWGdjUmdQMGNKdmdMSDNzVGdFaXUwVC05S2l2cWFOY3pSczdROFlSYlFmaTFOSVg1RnhGVU9qMlVFZVNJdnFiVDNoaHljOVJDOFNLemN0YXZ0Z2sxX29vOGZVZUpXQmRHOGZBZ2F0bmlpTVNySEROcE5kMVRSNUFJTVVrM2h3M3RyUXFJLUpuV0o5YXB2c0lVY0lZd0pHYmcyQ3BwRzFB?oc=5
 
 
 === KOREA ===
