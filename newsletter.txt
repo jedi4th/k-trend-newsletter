@@ -1,4 +1,4 @@
-[K-TREND AI INPUT - 2026-09-21]
+[K-TREND AI INPUT - 2026-09-24]
 
 
 === KPOP ===
@@ -55,18 +55,18 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzh1M0VmQWhnZVVOQ1Y0Tm8zY3U1WTMwWGViMDgzV04tc1cyYk03akxlQlE3aUFmS0M1RmQ4ZTFVRWlGbWRzWTBoNmlVRHFVaUpsN3BpdWFEVVUyYno4aEpwSUVPZEwzMkc4UGs4SXhPYzRaWnBLSk1nc0JVbmlhNDVJX2U0Sjl5R19hZXZWb0ZTV1duQlpKN3lmS3ZlWmJoaWR3ckhTbjVfNXRISkl6YQ?oc=5
 
 5.
-TITLE: K-food and K-beauty drive Europe push as Korea Expo Paris 2026 opens - CHOSUNBIZ - Chosunbiz
-SUMMARY: K-food and K-beauty drive Europe push as Korea Expo Paris 2026 opens - CHOSUNBIZ - Chosunbiz
+TITLE: bibigo Rides the K-Wave to 2026 K-EXPO Mexico - Food &amp; Beverage Magazine
+SUMMARY: bibigo Rides the K-Wave to 2026 K-EXPO Mexico - Food &amp; Beverage Magazine
 HOOK: KFOOD 뉴스
 SOURCE: news
-LINK: https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3lXOHB4UWpVc0VZTGpQdU9VUDdtd0V1MnFyZFBlOUVDanlqWEFjTVdLZlVFSktDMjVKbTlnOFRVRFR3djVDNmxkc0Ewb0laTURSQ3dUVXRKd0gzSXNBQVpnUmlfMHRCWVhMQU9xUzZSTGZ4RVhaUHJzLXdFc01QZXd30gGWAUFVX3lxTFBFTUtKN3R0bUZwY3hnejBXRVJoSzcwTHJBbGRIUktSWTl4aVBCTEFqTHE0QWhqWTlNUjR4TW1VY1pMaXQwOGh0R01yX2dmamV6dUg5RGIzdzdGUHJuNGJENzlPQ2U5Z2pzSzF6dGQ0ZFlnTmcwLUpOQTZSSjFubmt0V3dqc0ZQTVRkSnVObUpFVmZ3a05Qdw?oc=5
+LINK: https://news.google.com/rss/articles/CBMiggFBVV95cUxPNEtCblpDWFlqZEtFazFKNHZrSzlITEpMVS1zbXNVTlNGa0F5X01QYlhIdi1faFljbWR6VWJGZlphZEQyaHN6Y29VN2R5LUVlZXQ5SnBNODNZN3pUZ1Npa2lVbDBYWHU4SlpJTktla082VFJZTnBNQ015Z08zb1QzMDhB?oc=5
 
 
 === KOREA ===
 
 1.
-TITLE: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - scmp.com
-SUMMARY: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - scmp.com
+TITLE: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
+SUMMARY: Daniel Dae Kim spotlights Korean culture in new travel show K-Everything - South China Morning Post
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGNKaFM3TFJEV241anM5ekQ2Y3B2N3REWkxJU0MyNVNBcUpOd3JUVTNDYTVXMDQ1X3pJemlNMVF4dm1VbGthWHN0a1I2RkFXTTVydEdmQlVtQU5hU1V6T0NRdVlwbHdfMDBnakdTejd1RzNhWjhwQm02UkNibHJxcTFqODh3WFJnQ1FIWlc4R0ZGNmlfTGh3clJPbWQzUmFLYUlxLVFMdzhZeUdYSXRSOTlNUkpMcE9VNjY5X280dnJSRjd4X3VPSTJLRDBibWNsX0HSAdIBQVVfeXFMTWpvUXBNdDJyUHd1WFhQZFB4RmF5LWF3LXZXdGpSWkw5T3o5VlcycHJrLVRRLXdFbmZwSXZRd1VaT285UnA4aTZXNUtNZ3llSG9XTmlnUHFPRHhTQUUxdlNBaEs0X3hvVE82Z2lNQzl4ZUpHOWVKenN6U0NEX3RmSk5zdGJncjRKVjg0VVY4Ujc1QWN2QU5pWmY5aGRuUXVySldDdnBfQ0JDOXVHeERFeTBsenU1LWlOa1ZHLXZtcEhIRUlPY2tiUGRmMU1Gb3JuMGRn?oc=5
@@ -86,8 +86,8 @@ SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DS083ZXlOVHZYN0FHbmtScEJ0R2hCS0VRczVTang4YmRVcFkxM3loN05yVThfbV9pU2Z2RE1XY1ktLWxxaTA0MFEwRmhrcUQ1WUtv?oc=5
 
 4.
-TITLE: Nykaa, Blinkit Show How K-Wave is Reshaping India's Buying Habits | Outlook Respawn - Outlook Respawn
-SUMMARY: Nykaa, Blinkit Show How K-Wave is Reshaping India's Buying Habits | Outlook Respawn - Outlook Respawn
+TITLE: Nykaa, Blinkit Show How K-Wave is Reshaping India's Buying Habits | Outlook Respawn - respawn.outlookindia.com
+SUMMARY: Nykaa, Blinkit Show How K-Wave is Reshaping India's Buying Habits | Outlook Respawn - respawn.outlookindia.com
 HOOK: KOREA 뉴스
 SOURCE: news
 LINK: https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWs2M3loemJNcTFjNXVLR3RYeExRUEhVTzNaemZJSGdCOTNZMmgyVTY1SXhobF81b0lXX19iY0FfTndYQ0hUX2ZhSnAtc05tVE9lelJJYXN3QncwcllIcEVubWc1RTFTb1JiOGhTN3NxbXc3UUxfQzNFVERoUWxOa09hZ1FNZ2x2cE05ZkhPM0ZncmdGSXdSV2l3Tlg3ZG10LVgzSGlWN1N1VEhIT3JKdVVHLXVXUdIBwwFBVV95cUxPTkN1Um5YQUEyLUlnT0QtYUlvM3F0WXdnZklZcm5LU2F3QVlHcmNsVmYwRnN3MURKQ2NHZ3U3XzlpT2NTaG1PbG1iV2JyVmtleVdiQkUzRldSdnl3aG9XLVNha0lwOTJHRUpadTdiX0N0c2QtZ1FLM09vY2NCeHNnQUJIOGJlbmhoQjdsTnZ0ejlLV0ZwM3IxcXVHWlRVY2ZFLUE4U2c1OVFkcTU2UFM5SkV6bEw2Q2p4UGxPMEtncGlzdjQ?oc=5
